@@ -1,0 +1,16 @@
+.150202M153130 :1 ;Red, Green, Blue (RGB) 625nm Red, 520nm Green, 470nm Blue LED Indication - Discrete 2V Red, 3.2V Green, 3.2V Blue 4-SMD, J-Lead
+"150202M153130"
+*STM LED
+*NGS
+*PLB 1="COM_A" 2="K_RED" 3="K_GREEN" 4="K_BLUE"
+*MXP 4
+*DFN 150202M153130
+~!Mouser Part Number (710-150202M153130)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/150202M153130?qs=GedFDFLaBXGGSvoPtArHjA%3D%3D)
+~!Manufacturer_Name (Wurth Elektronik)
+~!Manufacturer_Part_Number (150202M153130)
+~!Link Datasheet (https://www.we-online.com/components/products/datasheet/150202M153130.pdf)
+~!Height (2mm)
+~!3D_Model (150202M153130)
+"150202M153130"
+1.1!U 2.1!U 3.1!U 4.1!U 

@@ -1,0 +1,9 @@
+Manufacturer=Diodes Incorporated
+PartNumber=DESD2CAN2SOQ-7
+PartCategory=TVS Diode (Bi-directional)
+PackageCategory=SOT23 (3-Pin)
+PinCount=3
+Version=3.1
+Released=2021-11-20 12:57:16
+Downloaded=2025-10-27 09:36:14
+3D=Y

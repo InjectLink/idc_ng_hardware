@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP EMIF06-HSD03F3
+D RLC EMI Filter 3rd Order Low Pass 6 Channel L = 1nH, C = 2.5pF 17-WFBGA, FCBGA
+K
+F https://www.st.com/resource/en/datasheet/emif06-hsd03f3.pdf
+$ENDCMP
+#
+#End Doc Library

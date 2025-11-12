@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'UCLAMP0501H.TCT'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "SEMTECH", "UCLAMP0501H.TCT" (!) = "", "SODFL1608X70N", "Small Outline Diode Flat Lead", "947-UCLAMP0501H.TCT", "https://www.mouser.co.uk/ProductDetail/Semtech/UCLAMP0501H.TCT?qs=rBWM4%252BvDhIf5bhuPjughFg%3D%3D", "SEMTECH - UCLAMP0501H.TCT - TVS DIODE, 240W, 5V, SOD-523, FULL REEL", "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-30/DSA-588575.pdf", "0.7 mm"
+END_PART
+
+END.

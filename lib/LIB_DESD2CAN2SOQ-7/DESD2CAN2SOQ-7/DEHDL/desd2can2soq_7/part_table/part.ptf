@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'DESD2CAN2SOQ_7'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Diodes Incorporated", "DESD2CAN2SOQ-7" (!) = "", "SOT96P240X110-3N", "SOT23 (3-Pin)", "621-DESD2CAN2SOQ-7", "https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/DESD2CAN2SOQ-7?qs=jXf%2FRVhl83a30%2FIU4KgEDg%3D%3D", "DIODES INC. - DESD2CAN2SOQ-7 - ESD Protection Device, 41 V, SOT-23, 3 Pins, 300 mW", "", "1.1 mm"
+END_PART
+
+END.

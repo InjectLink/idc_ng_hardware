@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "ALANS100X1-2F30DT"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2021-04-21-07:41:00)
+    (mountForm default
+        (footprintRef "ALANS100X12F30DT")
+        (spec "System")
+    )
+)

@@ -1,0 +1,9 @@
+Manufacturer=TE Connectivity
+PartNumber=FSM4JSMATR
+PartCategory=Switch
+PackageCategory=Other
+PinCount=4
+Version=2.1
+Released=2016-11-24 10:59:04
+Downloaded=2025-11-05 10:22:07
+3D=Y

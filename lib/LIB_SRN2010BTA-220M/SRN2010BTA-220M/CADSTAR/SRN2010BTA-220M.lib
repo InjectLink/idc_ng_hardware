@@ -1,0 +1,16 @@
+.SRN2010BTA-220M :1 ;Ind,2x1.6x0.9mm,22uH+/-20%,0.5A,shd
+SRN2010BTA220M
+*STM L
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN SRN2010BTA-220M
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Manufacturer_Name (Bourns)
+~!Manufacturer_Part_Number (SRN2010BTA-220M)
+~!Link Datasheet (https://bourns.com/docs/product-datasheets/srn2010bta.pdf)
+~!Height (1mm)
+~!3D_Model (SRN2010BTA-220M)
+SRN2010BTA-220M
+1.1!U 2.1!U 

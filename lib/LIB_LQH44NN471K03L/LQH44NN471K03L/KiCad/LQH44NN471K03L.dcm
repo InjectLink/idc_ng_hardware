@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LQH44NN471K03L
+D LQH44NN_03 Series Inductor 470uH +/-10% 1515 (4040)
+K
+F https://search.murata.co.jp/Ceramy/image/img/P02/JELF243A-0097.pdf
+$ENDCMP
+#
+#End Doc Library

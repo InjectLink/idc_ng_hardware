@@ -1,0 +1,124 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "NTF6P02T3G"
+   (description "Diode Exhibits High Speed, Soft Recovery; Avalanche Energy Specified; Pb-Free Package is Available; Logic Level Gate Drive; Low RDS(on)")
+   (family "TRX")
+   (package "SOT230P700X175-4N")
+   (attribute "Datasheet Link" "https://www.onsemi.com/pub/Collateral/NTF6P02T3-D.PDF")
+   (attribute "Geometry.Height" "1.75mm")
+   (attribute "Mouser Part Number" "863-NTF6P02T3G")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/onsemi/NTF6P02T3G?qs=ZXBb0xZ9WeDFlv0DxlzZdg%3D%3D")
+   (attribute "Manufacturer_Name" "onsemi")
+   (attribute "Manufacturer_Part_Number" "NTF6P02T3G")
+   (gate
+    (symbol "NTF6P02T3G")
+    (pin "G" 1 PS)
+    (pin "D_1" 2 PS)
+    (pin "S" 3 PS)
+    (pin "D_2" 4 PS)
+   )
+  )
+  (symbol "NTF6P02T3G"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 800 100) (pt 800 -300) (pt 200 -300) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -200) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1000 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "SOT230P700X175-4N"
+   (units MM)
+   (layer OCCA
+    (graphic
+     (stroke 0.05)
+     (path
+      (closed true)
+      (pt -4.25 3.6)
+      (pt 4.25 3.6)
+      (pt 4.25 -3.6)
+      (pt -4.25 -3.6)
+      (pt -4.25 3.6))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -1.75 3.25)
+      (pt 1.75 3.25)
+      (pt 1.75 -3.25)
+      (pt -1.75 -3.25)
+      (pt -1.75 3.25))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt -1.75 0.95)
+      (pt 0.55 3.25))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -1.75 3.25)
+      (pt 1.75 3.25)
+      (pt 1.75 -3.25)
+      (pt -1.75 -3.25)
+      (pt -1.75 3.25))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -4 3.15)
+      (pt -2.8 3.15))))
+   (leg 1 (pt -3.4 2.3) (padstack 0))
+   (leg 2 (pt -3.4 0) (padstack 0))
+   (leg 3 (pt -3.4 -2.3) (padstack 0))
+   (leg 4 (pt 3.4 0) (padstack 4))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 1 1.2 0 0 0))
+   )
+   (padstack 4
+    (plated false)
+    (pad (layer TCOP) (rectf 1.2 3.3 0 0 90))
+   )
+   (model "NTF6P02T3G.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

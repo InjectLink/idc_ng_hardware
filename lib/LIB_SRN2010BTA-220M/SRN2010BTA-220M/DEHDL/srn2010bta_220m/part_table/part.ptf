@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'SRN2010BTA_220M'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Bourns", "SRN2010BTA-220M" (!) = "", "SRN2010BTA220M", "Other", "", "", "Ind,2x1.6x0.9mm,22uH+/-20%,0.5A,shd", "https://bourns.com/docs/product-datasheets/srn2010bta.pdf", "1 mm"
+END_PART
+
+END.

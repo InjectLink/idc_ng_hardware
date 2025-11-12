@@ -1,0 +1,16 @@
+.DESD2CAN2SOQ-7 :1 ;DIODES INC. - DESD2CAN2SOQ-7 - ESD Protection Device, 41 V, SOT-23, 3 Pins, 300 mW
+SOT96P240X110-3N
+*STM D
+*NGS
+*PLB 1="1" 2="2" 3="3"
+*MXP 3
+*DFN DESD2CAN2SOQ-7
+~!Mouser Part Number (621-DESD2CAN2SOQ-7)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/DESD2CAN2SOQ-7?qs=jXf%2FRVhl83a30%2FIU4KgEDg%3D%3D)
+~!Manufacturer_Name (Diodes Incorporated)
+~!Manufacturer_Part_Number (DESD2CAN2SOQ-7)
+~!Link Datasheet (-)
+~!Height (1.1mm)
+~!3D_Model (DESD2CAN2SOQ-7)
+DESD2CAN2SOQ-7
+1.1!U 2.1!U 3.1!U 

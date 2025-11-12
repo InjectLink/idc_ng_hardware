@@ -1,0 +1,17 @@
+.EMIF06-HSD03F3 :1 ;RLC EMI Filter 3rd Order Low Pass 6 Channel L = 1nH, C = 2.5pF 17-WFBGA, FCBGA
+EMIF06HSD03F3
+*STM IC
+*NGS
+*PNM 1=A1 2=A3 3=B2 4=C1 5=C3 6=D2 7=E1 8=E3 9=F2 10=G1 11=G3 12=H2 13=I1 14=I3 15=J2 16=K1 17=K3
+*PLB 1="O1" 2="I1" 3="VCC" 4="O2" 5="I2" 6="GND_1" 7="O3" 8="I3" 9="GND_2" 10="O4" 11="I4" 12="GND_3" 13="O5" 14="I5" 15="DET" 16="O6" 17="I6"
+*MXP 17
+*DFN EMIF06-HSD03F3
+~!Mouser Part Number (511-EMIF06-HSD03F3)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/STMicroelectronics/EMIF06-HSD03F3?qs=wkiPY8TIIKeA9WXM%252BftrUw%3D%3D)
+~!Manufacturer_Name (STMicroelectronics)
+~!Manufacturer_Part_Number (EMIF06-HSD03F3)
+~!Link Datasheet (https://www.st.com/resource/en/datasheet/emif06-hsd03f3.pdf)
+~!Height (0.65mm)
+~!3D_Model (EMIF06-HSD03F3)
+EMIF06-HSD03F3
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 13.1!U 14.1!U 15.1!U 16.1!U 17.1!U 

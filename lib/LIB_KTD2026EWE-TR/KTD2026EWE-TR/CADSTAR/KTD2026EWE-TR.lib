@@ -1,0 +1,16 @@
+.KTD2026EWE-TR :1 ;LED Lighting Drivers 3-Channel RGB Driver, I2C, 1.5x1.5mm TDFN
+SON40P150X150X55-9N
+*STM IC
+*NGS
+*PLB 1="ST" 2="D3" 3="D2" 4="D1" 5="VIN" 6="SCL" 7="SDA" 8="GND_1" 9="GND_2"
+*MXP 9
+*DFN KTD2026EWE-TR
+~!Mouser Part Number (389-KTD2026EWETR)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Kinetic-Technologies/KTD2026EWE-TR?qs=lc2O%252BfHJPVZPUWgdBYxlOA%3D%3D)
+~!Manufacturer_Name (Kinetic Technologies)
+~!Manufacturer_Part_Number (KTD2026EWE-TR)
+~!Link Datasheet (https://componentsearchengine.com/Datasheets/1/KTD2026EWE-TR.pdf)
+~!Height (0.55mm)
+~!3D_Model (KTD2026EWE-TR)
+KTD2026EWE-TR
+1.1!U 2.1!U 3.1!U 4.1!U 9.1!G 8.1!G 7.1!U 6.1!U 5.1!P 

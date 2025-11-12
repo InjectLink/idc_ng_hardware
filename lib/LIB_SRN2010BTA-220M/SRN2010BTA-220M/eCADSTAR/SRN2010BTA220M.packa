@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "SRN2010BTA-220M"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2025-07-02-04:34:05)
+    (mountForm default
+        (footprintRef "SRN2010BTA220M")
+        (spec "System")
+    )
+)

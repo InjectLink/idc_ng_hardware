@@ -1,0 +1,9 @@
+Manufacturer=Eaton
+PartNumber=ACE1V3225-201-R
+PartCategory=Inductor
+PackageCategory=Other
+PinCount=4
+Version=1.5
+Released=2021-10-27 04:17:33
+Downloaded=2025-10-27 19:44:39
+3D=Y

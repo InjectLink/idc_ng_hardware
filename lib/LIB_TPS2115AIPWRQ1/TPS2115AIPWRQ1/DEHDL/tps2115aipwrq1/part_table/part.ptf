@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'TPS2115AIPWRQ1'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Texas Instruments", "TPS2115AIPWRQ1" (!) = "", "SOP65P640X120-8N", "Small Outline Packages", "595-TPS2115AIPWRQ1", "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPS2115AIPWRQ1?qs=IDSsxkoac0yJ8twoaysKxw%3D%3D", "Automotive Autoswitching Power Mux", "http://componentsearchengine.com/Datasheets/1/TPS2115AIPWRQ1.pdf", "1.2 mm"
+END_PART
+
+END.

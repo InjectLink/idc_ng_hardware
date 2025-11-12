@@ -1,0 +1,30 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model KTD2026EWE-TR
+#/1523331/1805544/2.50/9/3/Integrated Circuit
+DEF KTD2026EWE-TR IC 0 30 Y Y 1 F N
+F0 "IC" 1050 300 50 H V L CNN
+F1 "KTD2026EWE-TR" 1050 200 50 H V L CNN
+F2 "SON40P150X150X55-9N" 1050 100 50 H I L CNN
+F3 "https://componentsearchengine.com/Datasheets/1/KTD2026EWE-TR.pdf" 1050 0 50 H I L CNN
+F4 "LED Lighting Drivers 3-Channel RGB Driver, I2C, 1.5x1.5mm TDFN" 1050 -100 50 H I L CNN "Description"
+F5 "0.55" 1050 -200 50 H I L CNN "Height"
+F6 "389-KTD2026EWETR" 1050 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Kinetic-Technologies/KTD2026EWE-TR?qs=lc2O%252BfHJPVZPUWgdBYxlOA%3D%3D" 1050 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "Kinetic Technologies" 1050 -500 50 H I L CNN "Manufacturer_Name"
+F9 "KTD2026EWE-TR" 1050 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X ST 1 0 0 200 R 50 50 0 0 P
+X D3 2 0 -100 200 R 50 50 0 0 P
+X D2 3 0 -200 200 R 50 50 0 0 P
+X D1 4 0 -300 200 R 50 50 0 0 P
+X GND_2 9 600 -1000 200 U 50 50 0 0 W
+X GND_1 8 1200 0 200 L 50 50 0 0 W
+X SDA 7 1200 -100 200 L 50 50 0 0 P
+X SCL 6 1200 -200 200 L 50 50 0 0 P
+X VIN 5 1200 -300 200 L 50 50 0 0 W
+P 5 0 1 6 200 100 1000 100 1000 -800 200 -800 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

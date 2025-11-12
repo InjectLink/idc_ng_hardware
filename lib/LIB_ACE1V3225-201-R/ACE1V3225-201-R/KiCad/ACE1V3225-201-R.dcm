@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ACE1V3225-201-R
+D 200 H @ 100 kHz 2 Line Common Mode Choke Surface Mount 70mA DCR 4.8Ohm
+K
+F https://www.eaton.com/content/dam/eaton/products/electronic-components/resources/data-sheet/eaton-ace1v3225-automotive-common-mode-chip-inductor-data-sheet.pdf
+$ENDCMP
+#
+#End Doc Library

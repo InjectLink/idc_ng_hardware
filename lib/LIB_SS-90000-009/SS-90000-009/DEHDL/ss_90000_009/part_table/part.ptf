@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'SS_90000_009'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Bel", "SS-90000-009" (!) = "", "SS90000009", "Other", "", "", "Jack Modular Connector 8p8c (RJ45, Ethernet) 90 Angle (Right) Shielded, EMI Finger", "https://www.belfuse.com/resources/drawings/stewartconnector/dr-STW-SS-90000-009.pdf", "13.38 mm"
+END_PART
+
+END.

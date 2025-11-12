@@ -1,0 +1,9 @@
+Manufacturer=Silicon Labs
+PartNumber=WFM200S022XNA3
+PartCategory=Integrated Circuit
+PackageCategory=Other
+PinCount=58
+Version=2.6
+Released=2020-12-15 14:02:13
+Downloaded=2025-11-04 10:25:32
+3D=Y

@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'ST490ABDR'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "STMicroelectronics", "ST490ABDR" (!) = "", "SOIC127P600X175-8N", "Small Outline Packages", "511-ST490ABDR", "https://www.mouser.co.uk/ProductDetail/STMicroelectronics/ST490ABDR?qs=OA2by1ti9iHzlIjKWM8I4A%3D%3D", "ST490ABDR", "https://www.arrow.com/en/products/st490abdr/stmicroelectronics", "ST490ABDR, Line Transceiver, RS-485, RS-422 50Mbit/s Differential, 5 V, 8-Pin SO", "http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00003152.pdf", "1.75 mm"
+END_PART
+
+END.

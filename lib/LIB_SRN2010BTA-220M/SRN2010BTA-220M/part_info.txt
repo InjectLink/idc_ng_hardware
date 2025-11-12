@@ -1,0 +1,9 @@
+Manufacturer=Bourns
+PartNumber=SRN2010BTA-220M
+PartCategory=Inductor
+PackageCategory=Other
+PinCount=2
+Version=3.1
+Released=2025-07-02 04:34:05
+Downloaded=2025-11-05 08:17:19
+3D=Y

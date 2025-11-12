@@ -1,0 +1,9 @@
+Manufacturer=Same Sky
+PartNumber=DS04-254-2-03BK-SMT
+PartCategory=Switch
+PackageCategory=Other
+PinCount=6
+Version=5.2
+Released=2020-03-12 23:45:31
+Downloaded=2025-10-28 16:27:38
+3D=Y

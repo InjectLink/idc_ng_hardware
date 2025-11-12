@@ -1,0 +1,9 @@
+Manufacturer=STMicroelectronics
+PartNumber=EMIF06-HSD03F3
+PartCategory=Integrated Circuit
+PackageCategory=Other
+PinCount=17
+Version=1.2
+Released=2024-03-22 10:58:24
+Downloaded=2025-10-28 08:53:33
+3D=Y

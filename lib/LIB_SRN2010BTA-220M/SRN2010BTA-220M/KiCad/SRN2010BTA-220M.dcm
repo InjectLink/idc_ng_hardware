@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SRN2010BTA-220M
+D Ind,2x1.6x0.9mm,22uH+/-20%,0.5A,shd
+K
+F https://bourns.com/docs/product-datasheets/srn2010bta.pdf
+$ENDCMP
+#
+#End Doc Library

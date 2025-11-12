@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP UCLAMP0501H.TCT
+D SEMTECH - UCLAMP0501H.TCT - TVS DIODE, 240W, 5V, SOD-523, FULL REEL
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-30/DSA-588575.pdf
+$ENDCMP
+#
+#End Doc Library

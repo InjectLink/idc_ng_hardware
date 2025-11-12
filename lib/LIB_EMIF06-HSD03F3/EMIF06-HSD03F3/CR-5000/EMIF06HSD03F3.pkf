@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "EMIF06HSD03F3"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "EMIF06HSD03F3")
+        (spec "default")
+    )
+)

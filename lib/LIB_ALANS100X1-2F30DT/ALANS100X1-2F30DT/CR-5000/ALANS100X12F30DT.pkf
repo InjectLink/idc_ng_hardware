@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "ALANS100X12F30DT"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "ALANS100X12F30DT")
+        (spec "default")
+    )
+)

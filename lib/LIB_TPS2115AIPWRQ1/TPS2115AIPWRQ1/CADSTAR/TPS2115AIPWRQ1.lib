@@ -1,0 +1,16 @@
+.TPS2115AIPWRQ1 :1 ;Automotive Autoswitching Power Mux
+SOP65P640X120-8N
+*STM IC
+*NGS
+*PLB 1="STAT" 2="D0" 3="D1" 4="ILIM" 5="GND" 6="IN2" 7="OUT" 8="IN1"
+*MXP 8
+*DFN TPS2115AIPWRQ1
+~!Mouser Part Number (595-TPS2115AIPWRQ1)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPS2115AIPWRQ1?qs=IDSsxkoac0yJ8twoaysKxw%3D%3D)
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (TPS2115AIPWRQ1)
+~!Link Datasheet (http://componentsearchengine.com/Datasheets/1/TPS2115AIPWRQ1.pdf)
+~!Height (1.2mm)
+~!3D_Model (TPS2115AIPWRQ1)
+TPS2115AIPWRQ1
+1.1!U 2.1!U 3.1!U 4.1!U 8.1!U 7.1!U 6.1!U 5.1!U 

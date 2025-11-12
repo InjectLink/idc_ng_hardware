@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NTF6P02T3G
+D Diode Exhibits High Speed, Soft Recovery; Avalanche Energy Specified; Pb-Free Package is Available; Logic Level Gate Drive; Low RDS(on)
+K
+F https://www.onsemi.com/pub/Collateral/NTF6P02T3-D.PDF
+$ENDCMP
+#
+#End Doc Library

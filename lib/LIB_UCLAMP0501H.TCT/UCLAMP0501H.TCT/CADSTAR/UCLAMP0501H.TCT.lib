@@ -1,0 +1,16 @@
+.UCLAMP0501H.TCT :1 ;SEMTECH - UCLAMP0501H.TCT - TVS DIODE, 240W, 5V, SOD-523, FULL REEL
+SODFL1608X70N
+*STM D
+*NGS
+*PLB 1="K" 2="A"
+*MXP 2
+*DFN UCLAMP0501H.TCT
+~!Mouser Part Number (947-UCLAMP0501H.TCT)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Semtech/UCLAMP0501H.TCT?qs=rBWM4%252BvDhIf5bhuPjughFg%3D%3D)
+~!Manufacturer_Name (SEMTECH)
+~!Manufacturer_Part_Number (UCLAMP0501H.TCT)
+~!Link Datasheet (https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-30/DSA-588575.pdf)
+~!Height (0.7mm)
+~!3D_Model (UCLAMP0501H.TCT)
+UCLAMP0501H.TCT
+1.1!U 2.1!U 

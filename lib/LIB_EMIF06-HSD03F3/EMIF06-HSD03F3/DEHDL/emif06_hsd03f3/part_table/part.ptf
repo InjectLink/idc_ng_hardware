@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'EMIF06_HSD03F3'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "STMicroelectronics", "EMIF06-HSD03F3" (!) = "", "EMIF06HSD03F3", "Other", "511-EMIF06-HSD03F3", "https://www.mouser.co.uk/ProductDetail/STMicroelectronics/EMIF06-HSD03F3?qs=wkiPY8TIIKeA9WXM%252BftrUw%3D%3D", "RLC EMI Filter 3rd Order Low Pass 6 Channel L = 1nH, C = 2.5pF 17-WFBGA, FCBGA", "https://www.st.com/resource/en/datasheet/emif06-hsd03f3.pdf", "0.65 mm"
+END_PART
+
+END.

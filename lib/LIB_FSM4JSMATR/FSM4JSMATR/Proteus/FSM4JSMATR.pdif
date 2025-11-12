@@ -1,0 +1,103 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "FSM4JSMATR"
+   (description "Body Features: Case Material Polyamide | Actuator Color Black | Cover Material Steel | Case Color Brown | Product Orientation Vertical | Actuator Force 5.64 OZ | Actuator Material Polyamide | Actuator Profile Extended | Actuator Force 160 G | Configuration Features: Switch Feedback Type Tactile | Number of Actuators Single | Configuration (Pole-Throw) Single Pole - Single Throw | ESD Grounding Terminal Without | Ganged With | Support Bracket Without | Operating Function NO | Contact Features: Switch Contact")
+   (family "SWI")
+   (package "FSM4JSMATR")
+   (attribute "Datasheet Link" "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1654270-2&DocType=Catalog%20Section&DocLang=English&PartCntxt=4-1437565-2&DocFormat=pdf")
+   (attribute "Mouser Part Number" "506-FSM4JSMATR")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/TE-Connectivity-Alcoswitch/FSM4JSMATR?qs=wvf%252BmaPDr9OW%2FGIpfy5A8Q%3D%3D")
+   (attribute "Manufacturer_Name" "TE Connectivity")
+   (attribute "Manufacturer_Part_Number" "FSM4JSMATR")
+   (gate
+    (symbol "FSM4JSMATR")
+    (pin "1" 1 PS)
+    (pin "2" 2 PS)
+    (pin "3" 3 PS)
+    (pin "4" 4 PS)
+   )
+  )
+  (symbol "FSM4JSMATR"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 600 100) (pt 600 -200) (pt 200 -200) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 800 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 800 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "FSM4JSMATR"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.254)
+     (path
+      (closed true)
+      (pt -3 3)
+      (pt 3 3)
+      (pt 3 -3)
+      (pt -3 -3)
+      (pt -3 3))))
+   (layer TSLK
+    (graphic
+     (stroke 0.254)
+     (path
+      (closed false)
+      (pt -3 3)
+      (pt 3 3)
+      (pt 3 -3)
+      (pt -3 -3)
+      (pt -3 3))))
+   (layer TSLK
+    (graphic
+     (stroke 0.254)
+     (circle
+      (pt 3.003 6.305) (pt 3.181 6.305)
+     )
+    )
+   )
+   (leg 1 (pt 2.25 4.55) (padstack 0))
+   (leg 2 (pt 2.25 -4.55) (padstack 0))
+   (leg 3 (pt -2.25 4.55) (padstack 0))
+   (leg 4 (pt -2.25 -4.55) (padstack 0))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 1.4 2.1 0 0 90))
+   )
+   (model "FSM4JSMATR.stp"
+    (euler 90 0 0)
+    (offset 0 0 0.15000000596046448)
+   )
+  )
+ )
+)

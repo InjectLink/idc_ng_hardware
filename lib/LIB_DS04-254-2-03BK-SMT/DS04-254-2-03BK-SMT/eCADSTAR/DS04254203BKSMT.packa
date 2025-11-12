@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "DS04-254-2-03BK-SMT"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2020-03-12-23:45:31)
+    (mountForm default
+        (footprintRef "DS04254203BKSMT")
+        (spec "System")
+    )
+)

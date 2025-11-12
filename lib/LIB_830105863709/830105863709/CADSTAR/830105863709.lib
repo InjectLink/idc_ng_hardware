@@ -1,0 +1,16 @@
+.830105863709 :1 ;Standard 3.2 x 2.5mm SMD crystal in a ceramic package with a seam sealed metal lid, hermetically sealed
+"830105863709"
+*STM Y
+*NGS
+*PLB 1="CRYSTAL _1" 2="GND & LID_1" 3="CRYSTAL _2" 4="GND & LID_2"
+*MXP 4
+*DFN 830105863709
+~!Mouser Part Number (710-830105863709)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/830105863709?qs=hd1VzrDQEGgXVxZIC%252BUALw%3D%3D)
+~!Manufacturer_Name (Wurth Elektronik)
+~!Manufacturer_Part_Number (830105863709)
+~!Link Datasheet (https://www.we-online.com/catalog/datasheet/830105863709.pdf)
+~!Height (0.8mm)
+~!3D_Model (830105863709)
+"830105863709"
+1.1!U 2.1!U 3.1!U 4.1!U 

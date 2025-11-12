@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'WFM200S022XNA3'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Silicon Labs", "WFM200S022XNA3" (!) = "", "WFM200S022XNA3", "Other", "634-WFM200S022XNA3", "https://www.mouser.co.uk/ProductDetail/Silicon-Labs/WFM200S022XNA3?qs=vEM7xhTegWgk98Fa7%252BnIXQ%3D%3D", "Ultra Low Power Wi-Fi transceiver or network co-processor (NCP) SiP module", "https://www.silabs.com/documents/public/data-sheets/wfm200-datasheet.pdf", "1.4 mm"
+END_PART
+
+END.

@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '830105863709'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Wurth Elektronik", "830105863709" (!) = "", "830105863709", "Other", "710-830105863709", "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/830105863709?qs=hd1VzrDQEGgXVxZIC%252BUALw%3D%3D", "Standard 3.2 x 2.5mm SMD crystal in a ceramic package with a seam sealed metal lid, hermetically sealed", "https://www.we-online.com/catalog/datasheet/830105863709.pdf", "0.8 mm"
+END_PART
+
+END.

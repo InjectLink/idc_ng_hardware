@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "LQH44NN471K03L"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2020-03-31-15:08:33)
+    (mountForm default
+        (footprintRef "LQH44NN100K03L")
+        (spec "System")
+    )
+)

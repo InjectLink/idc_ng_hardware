@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "UCLAMP0501H_TCT"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2020-02-15-16:49:18)
+    (mountForm default
+        (footprintRef "SODFL1608X70N")
+        (spec "System")
+    )
+)

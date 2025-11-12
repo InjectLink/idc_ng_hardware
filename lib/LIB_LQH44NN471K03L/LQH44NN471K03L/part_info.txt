@@ -1,0 +1,9 @@
+Manufacturer=Murata Electronics
+PartNumber=LQH44NN471K03L
+PartCategory=Inductor
+PackageCategory=Other
+PinCount=2
+Version=2.2
+Released=2019-10-01 12:21:36
+Downloaded=2025-10-27 14:08:45
+3D=Y

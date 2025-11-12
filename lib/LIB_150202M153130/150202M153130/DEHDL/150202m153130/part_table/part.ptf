@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '150202M153130'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Wurth Elektronik", "150202M153130" (!) = "", "150202M153130", "Other", "710-150202M153130", "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/150202M153130?qs=GedFDFLaBXGGSvoPtArHjA%3D%3D", "Red, Green, Blue (RGB) 625nm Red, 520nm Green, 470nm Blue LED Indication - Discrete 2V Red, 3.2V Green, 3.2V Blue 4-SMD, J-Lead", "https://www.we-online.com/components/products/datasheet/150202M153130.pdf", "2 mm"
+END_PART
+
+END.

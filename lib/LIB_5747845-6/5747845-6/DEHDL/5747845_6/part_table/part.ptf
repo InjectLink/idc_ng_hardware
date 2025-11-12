@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '5747845_6'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "TE Connectivity", "5747845-6" (!) = "", "57478456", "Other", "571-5747845-6", "https://www.mouser.co.uk/ProductDetail/TE-Connectivity/5747845-6?qs=x6EjVpvqMVN9cHT7h3fiVQ%3D%3D", "Body Features: Insert Material Zinc | Mating Feature Material Zinc | Shell Plating Material Tin | Connector Profile Standard | Mating Feature Plating Material Clear Chromate | Assembly Process Feature Material Copper Alloy | Primary Product Color Black | Configuration Features: Number of Positions 15 | PCB Mount Orientation Right Angle | Number of Rows 2 | Contact Features: Contact Shape & Form Round | Contact Mating Area Plating Material Gold | PCB Contact Termination Area Plating Material Tin | Contact Ma", "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=82068_AMPLIMITE_Right-Angle_Posted_Conn&DocType=Catalog%20Section&DocLang=English&PartCntxt=5747845-6&DocFormat=pdf", "12.929 mm"
+END_PART
+
+END.

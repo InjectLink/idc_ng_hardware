@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'DS04_254_2_03BK_SMT'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Same Sky", "DS04-254-2-03BK-SMT" (!) = "", "DS04254203BKSMT", "Other", "490-DS04254203BK-SMT", "https://www.mouser.co.uk/ProductDetail/Same-Sky/DS04-254-2-03BK-SMT?qs=wnTfsH77Xs6HyisDGRVjIg%3D%3D", "3 Position, Surface Mount, 2.54 mm Pitch, Flat Slide Actuator, Flat Bottom, SMT Pin, DIP Switch", "https://www.sameskydevices.com/product/resource/ds04-254-smt.pdf", "4.3 mm"
+END_PART
+
+END.

@@ -1,0 +1,16 @@
+.ALANS100X1-2F30DT :1 ;350H Pulse Transformer 1CT:1CT Surface Mount
+ALANS100X12F30DT
+*STM T
+*NGS
+*PLB 1="TD1+" 2="TCT1" 3="TD1-" 4="NC_1" 5="NC_2" 6="TD2+" 7="TCT2" 8="TD2-" 9="MX2-" 10="MCT2" 11="MX2+" 12="NC_3" 13="NC_4" 14="MX1-" 15="MCT1" 16="MX1+"
+*MXP 16
+*DFN ALANS100X1-2F30DT
+~!Mouser Part Number (815-ALANS100X12F30DT)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/ABRACON/ALANS100X1-2F30DT?qs=mAH9sUMRCtuizu44xbH5Uw%3D%3D)
+~!Manufacturer_Name (ABRACON)
+~!Manufacturer_Part_Number (ALANS100X1-2F30DT)
+~!Link Datasheet (https://www.digikey.ph/en/products/detail/abracon-llc/ALANS100X1-2F30DT/10257827)
+~!Height (5.9mm)
+~!3D_Model (ALANS100X1-2F30DT)
+ALANS100X1-2F30DT
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 13.1!U 14.1!U 15.1!U 16.1!U 

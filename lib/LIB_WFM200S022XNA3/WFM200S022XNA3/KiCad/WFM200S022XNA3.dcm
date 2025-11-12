@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP WFM200S022XNA3
+D Ultra Low Power Wi-Fi transceiver or network co-processor (NCP) SiP module
+K
+F https://www.silabs.com/documents/public/data-sheets/wfm200-datasheet.pdf
+$ENDCMP
+#
+#End Doc Library

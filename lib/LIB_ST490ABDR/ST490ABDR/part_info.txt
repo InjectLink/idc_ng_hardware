@@ -1,0 +1,9 @@
+Manufacturer=STMicroelectronics
+PartNumber=ST490ABDR
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=8
+Version=5.1
+Released=2015-04-13 16:53:27
+Downloaded=2025-10-27 09:57:55
+3D=Y

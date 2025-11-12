@@ -1,0 +1,9 @@
+Manufacturer=SEMTECH
+PartNumber=UCLAMP0501H.TCT
+PartCategory=TVS Diode (Uni-directional)
+PackageCategory=Small Outline Diode Flat Lead
+PinCount=2
+Version=1.1
+Released=2018-08-07 12:59:58
+Downloaded=2025-10-27 17:52:23
+3D=Y

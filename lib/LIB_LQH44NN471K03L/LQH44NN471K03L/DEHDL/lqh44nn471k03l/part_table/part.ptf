@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'LQH44NN471K03L'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Murata Electronics", "LQH44NN471K03L" (!) = "", "LQH44NN100K03L", "Other", "81-LQH44NN471K03L", "https://www.mouser.co.uk/ProductDetail/Murata-Electronics/LQH44NN471K03L?qs=p1l%252BOuySasK24fzs1UZzCQ%3D%3D", "LQH44NN_03 Series Inductor 470uH +/-10% 1515 (4040)", "https://search.murata.co.jp/Ceramy/image/img/P02/JELF243A-0097.pdf", "4.5 mm"
+END_PART
+
+END.

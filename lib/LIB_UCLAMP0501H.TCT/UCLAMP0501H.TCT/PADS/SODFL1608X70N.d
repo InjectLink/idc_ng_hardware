@@ -1,0 +1,39 @@
+*PADS-LIBRARY-PCB-DECALS-V9*
+
+SODFL1608X70N M 0 0 0 2 5 0 2 1 0
+TIMESTAMP 2025.10.27.17.10.23
+0 0 0 0 1.27 0.127 1 0 34 "Regular <Romansim Stroke Font>"
+REF-DES
+0 0 0 0 1.27 0.127 1 32 35 "Regular <Romansim Stroke Font>"
+PART-TYPE
+CLOSED 5 0.05 20 -1
+-1.225 0.6
+1.225 0.6
+1.225 -0.6
+-1.225 -0.6
+-1.225 0.6
+CLOSED 5 0.1 27 -1
+-0.6 0.4
+0.6 0.4
+0.6 -0.4
+-0.6 -0.4
+-0.6 0.4
+OPEN 2 0.1 27 -1
+-0.6 0.025
+-0.225 0.4
+OPEN 2 0.2 26 -1
+-1.075 0.4
+0.6 0.4
+OPEN 2 0.2 26 -1
+-0.6 -0.4
+0.6 -0.4
+T-0.7 0 -0.7 0 1
+T0.7 0 0.7 0 2
+PAD 0 3 N 0
+-2 0.42 RF 0 0 0.75 0
+-1 0 R
+0 0 R
+
+*END*
+*REMARK* AP
+UCLAMP0501H.TCT.stp/0/0/0/0/0/0

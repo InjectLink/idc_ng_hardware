@@ -1,0 +1,120 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "150202M153130"
+   (description "Red, Green, Blue (RGB) 625nm Red, 520nm Green, 470nm Blue LED Indication - Discrete 2V Red, 3.2V Green, 3.2V Blue 4-SMD, J-Lead")
+   (family "ANA")
+   (package "150202M153130")
+   (attribute "Datasheet Link" "https://www.we-online.com/components/products/datasheet/150202M153130.pdf")
+   (attribute "Geometry.Height" "2mm")
+   (attribute "Mouser Part Number" "710-150202M153130")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/150202M153130?qs=GedFDFLaBXGGSvoPtArHjA%3D%3D")
+   (attribute "Manufacturer_Name" "Wurth Elektronik")
+   (attribute "Manufacturer_Part_Number" "150202M153130")
+   (gate
+    (symbol "150202M153130")
+    (pin "COM_A" 1 PS)
+    (pin "K_RED" 2 PS)
+    (pin "K_GREEN" 3 PS)
+    (pin "K_BLUE" 4 PS)
+   )
+  )
+  (symbol "150202M153130"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 1100 100) (pt 1100 -200) (pt 200 -200) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1300 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1300 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "150202M153130"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -1.1 1)
+      (pt 1.1 1)
+      (pt 1.1 -1)
+      (pt -1.1 -1)
+      (pt -1.1 1))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -2.25 2)
+      (pt 2.25 2)
+      (pt 2.25 -2)
+      (pt -2.25 -2)
+      (pt -2.25 2))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -1.7 0.475)
+      (arc (pt -1.700 0.475) (pt -1.800 0.425) (pt -1.700 0.525) (start 180.0) (sweep .0))
+      (pt -1.8 0.475)
+      (arc (pt -1.800 0.475) (pt -1.800 0.425) (pt -1.700 0.525) (start 180.0) (sweep 180.0))
+      (pt -1.7 0.475))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -0.2 1)
+      (pt 0.2 1))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -0.2 -1)
+      (pt 0.2 -1))))
+   (leg 1 (pt -0.850 0.475) (padstack 0))
+   (leg 2 (pt -0.850 -0.475) (padstack 0))
+   (leg 3 (pt 0.850 -0.475) (padstack 0))
+   (leg 4 (pt 0.850 0.475) (padstack 0))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 0.600 0.800 0 0 0.000))
+   )
+   (model "150202M153130.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

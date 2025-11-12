@@ -1,0 +1,17 @@
+.SS-90000-009 :1 ;Jack Modular Connector 8p8c (RJ45, Ethernet) 90 Angle (Right) Shielded, EMI Finger
+SS90000009
+*STM J
+*NGS
+*PNM 1=1 2=2 3=3 4=4 5=5 6=6 7=7 8=8 9=9 10=10 11=11 12=12 13=MH3 14=MH4
+*PLB 1="1" 2="2" 3="3" 4="4" 5="5" 6="6" 7="7" 8="8" 9="K_GREEN" 10="A_GREEN" 11="K_YELLOW" 12="A_YELLOW" 13="MH3" 14="MH4"
+*MXP 16
+*DFN SS-90000-009
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Manufacturer_Name (Bel)
+~!Manufacturer_Part_Number (SS-90000-009)
+~!Link Datasheet (https://www.belfuse.com/resources/drawings/stewartconnector/dr-STW-SS-90000-009.pdf)
+~!Height (13.38mm)
+~!3D_Model (SS-90000-009)
+SS-90000-009
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 13.1!U 14.1!U 

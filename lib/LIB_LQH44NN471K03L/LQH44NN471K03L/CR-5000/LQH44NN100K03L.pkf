@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "LQH44NN100K03L"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "LQH44NN100K03L")
+        (spec "default")
+    )
+)

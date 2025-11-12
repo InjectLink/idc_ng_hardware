@@ -1,0 +1,9 @@
+Manufacturer=onsemi
+PartNumber=NTF6P02T3G
+PartCategory=Transistor
+PackageCategory=SOT223 (3-Pin)
+PinCount=4
+Version=3.1
+Released=2015-08-29 05:50:29
+Downloaded=2025-10-29 08:07:49
+3D=Y

@@ -1,0 +1,17 @@
+.5747845-6 :1 ;Body Features: Insert Material Zinc | Mating Feature Material Zinc | Shell Plating Material Tin | Connector Profile Standard | Mating Feature Plating Material Clear Chromate | Assembly Process Feature Material Copper Alloy | Primary Product Color Black | Configuration Features: Number of Positions 15 | PCB Mount Orientation Right Angle | Number of Rows 2 | Contact Features: Contact Shape & Form Round | Contact Mating Area Plating Material Gold | PCB Contact Termination Area Plating Material Tin | Contact Ma
+"57478456"
+*STM J
+*NGS
+*PNM 1=1 2=2 3=3 4=4 5=5 6=6 7=7 8=8 9=9 10=10 11=11 12=12 13=13 14=14 15=15 16=MH1 17=MH2
+*PLB 1="1" 2="2" 3="3" 4="4" 5="5" 6="6" 7="7" 8="8" 9="9" 10="10" 11="11" 12="12" 13="13" 14="14" 15="15" 16="MH1" 17="MH2"
+*MXP 17
+*DFN 5747845-6
+~!Mouser Part Number (571-5747845-6)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/TE-Connectivity/5747845-6?qs=x6EjVpvqMVN9cHT7h3fiVQ%3D%3D)
+~!Manufacturer_Name (TE Connectivity)
+~!Manufacturer_Part_Number (5747845-6)
+~!Link Datasheet (https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=82068_AMPLIMITE_Right-Angle_Posted_Conn&DocType=Catalog%20Section&DocLang=English&PartCntxt=5747845-6&DocFormat=pdf)
+~!Height (12.929mm)
+~!3D_Model (5747845-6)
+"5747845-6"
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 13.1!U 14.1!U 15.1!U 16.1!U 17.1!U 

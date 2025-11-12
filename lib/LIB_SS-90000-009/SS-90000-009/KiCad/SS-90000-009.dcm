@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SS-90000-009
+D Jack Modular Connector 8p8c (RJ45, Ethernet) 90 Angle (Right) Shielded, EMI Finger
+K
+F https://www.belfuse.com/resources/drawings/stewartconnector/dr-STW-SS-90000-009.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,66 @@
+(Japanese_coding: sjis)
+(function "ECS_20639102"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2025-07-02-04:34:05)
+    (utime 2025-07-02-13:01:20)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "SRN2010BTA-220M")
+)
+
+
+(pinAssign "ECS_20639102"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2025-07-02-04:34:05)
+    (utime 2025-07-02-13:01:20)
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_20639102")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "SRN2010BTA-220M")
+)
+
+
+(part "SRN2010BTA-220M"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2025-07-02-04:34:05)
+    (utime 2025-07-02-13:01:20)
+    (packageRef "SRN2010BTA-220M")
+    (pinAssignRef "ECS_20639102")
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "NO")
+    (property "refDesPrefix" "L")
+    (property "description" "Ind,2x1.6x0.9mm,22uH+/-20%,0.5A,shd")
+    (property "Mouser_Part_Number" "")
+    (property "Mouser_Price/Stock" "")
+    (property "Manufacturer_Name" "Bourns")
+    (property "Manufacturer_Part_Number" "SRN2010BTA-220M")
+    (property "Datasheet_Link" "https://bourns.com/docs/product-datasheets/srn2010bta.pdf")
+    (property "compAreaTopHeight" 1)
+)
+
+

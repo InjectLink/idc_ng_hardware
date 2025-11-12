@@ -1,0 +1,9 @@
+Manufacturer=ABRACON
+PartNumber=ALANS100X1-2F30DT
+PartCategory=Transformer
+PackageCategory=Other
+PinCount=16
+Version=1.1
+Released=2021-04-21 07:41:00
+Downloaded=2025-11-06 11:18:32
+3D=Y

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ST490ABDR
+D ST490ABDR, Line Transceiver, RS-485, RS-422 50Mbit/s Differential, 5 V, 8-Pin SO
+K
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00003152.pdf
+$ENDCMP
+#
+#End Doc Library

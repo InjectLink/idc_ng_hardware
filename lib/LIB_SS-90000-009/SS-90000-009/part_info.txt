@@ -1,0 +1,9 @@
+Manufacturer=Bel
+PartNumber=SS-90000-009
+PartCategory=Connector
+PackageCategory=Other
+PinCount=14
+Version=1.5
+Released=2024-03-28 09:20:47
+Downloaded=2025-10-28 13:53:55
+3D=Y
