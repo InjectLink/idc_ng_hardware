@@ -1,0 +1,9 @@
+Manufacturer=Infineon
+PartNumber=CY7C65213-32LTXI
+PartCategory=Integrated Circuit
+PackageCategory=Quad Flat No-Lead
+PinCount=33
+Version=1.1
+Released=2019-10-14 10:00:45
+Downloaded=2025-11-26 15:26:32
+3D=Y

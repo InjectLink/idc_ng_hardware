@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "SP3422-04UTG"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2023-06-21-15:30:09)
+    (mountForm default
+        (footprintRef "SP342204UTG")
+        (spec "System")
+    )
+)

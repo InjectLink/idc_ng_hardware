@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'AQ3130_01ETG'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "LITTELFUSE", "AQ3130-01ETG" (!) = "", "AQ313001ETG", "Other", "576-AQ3130-01ETG", "https://www.mouser.co.uk/ProductDetail/Littelfuse/AQ3130-01ETG?qs=AQlKX63v8RuGigjCJJkgEA%3D%3D", "ESD Suppressors / TVS Diodes 0.3pF 10KV AEC-Q101", "https://www.arrow.com/en/products/aq3130-01etg/littelfuse", "0.6 mm"
+END_PART
+
+END.

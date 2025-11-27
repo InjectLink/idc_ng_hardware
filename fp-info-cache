@@ -1,4 +1,4 @@
-26705217408441820
+26722859134068099
 ACE
 ACE1V3225201R
 ACE1V3225-201-R-1
@@ -2960,6 +2960,13 @@ Gauge Massstab 100mm SilkScreenTop Type 2
 0
 0
 0
+Capa Secu
+VY2102M29Y5US6TV7
+VY2102M29Y5US6TV7-1
+Capacitor
+0
+2
+2
 Capacitor_SMD
 CP_Elec_3x5.3
 SMT capacitor, aluminium electrolytic, 3x5.3, Cornell Dubilier Electronics 
@@ -39843,6 +39850,13 @@ Surface mounted pin header SMD 2x40 2.54mm double row
 0
 80
 80
+Connector_PinHeader_2.54mm
+Sans titre
+
+
+0
+0
+0
 Connector_PinSocket_1.00mm
 PinSocket_1x02_P1.00mm_Vertical
 Through hole straight socket strip, 1x02, 1.00mm pitch, single row (https://gct.co/files/drawings/bc065.pdf), script generated
@@ -61393,6 +61407,20 @@ ESD
 SODFL1608X70N
 SOD-523
 TVS Diode (Uni-directional)
+0
+2
+2
+ESD Array
+SP342204UTG
+μDFN-5
+TVS Diode (Bi-directional)
+0
+5
+5
+ESD Eth
+AQ313001ETG
+AQ3130-01ETG-3
+TVS Diode (Bi-directional)
 0
 2
 2
@@ -94779,6 +94807,13 @@ WiFi IEEE802.11 b/g/n
 0
 44
 44
+RJ45
+ARJM11C7009ABEW2
+ARJM11C7-009-AB-EW2-3
+Connector
+0
+14
+14
 RS422
 SOIC127P600X175-8N
 SO--8
@@ -106224,6 +106259,27 @@ Varistor VF
 0
 2
 2
+f
+WFM200S022XNA3
+WFM200S
+Integrated Circuit
+0
+58
+58
+h
+MIE1W0505BGLVH3RP
+MIE1W0505BGLVH-3R-P
+Integrated Circuit
+0
+16
+16
+logo
+logo
+
+
+0
+0
+0
 myir-151
 MYCYA151C256N256D65CT
 MYC-YA151C-256N256D-65-C-T-5
@@ -106238,6 +106294,20 @@ Undefined or Miscellaneous
 0
 148
 148
+q
+FSM4JSMATR
+FSM4JSMATR
+Switch
+0
+4
+4
+s
+ALANS100X12F30DT
+12.8 x 6.9 x 5.9 mm
+Transformer
+0
+16
+16
 x
 830105863709
 830105863709-1

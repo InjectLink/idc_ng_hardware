@@ -1,0 +1,66 @@
+(Japanese_coding: sjis)
+(function "ECS_998719"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2020-12-06-12:19:03)
+    (utime 2023-05-09-08:15:14)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "AQ3130-01ETG")
+)
+
+
+(pinAssign "ECS_998719"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2020-12-06-12:19:03)
+    (utime 2023-05-09-08:15:14)
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_998719")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "AQ3130-01ETG")
+)
+
+
+(part "AQ3130-01ETG"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2020-12-06-12:19:03)
+    (utime 2023-05-09-08:15:14)
+    (packageRef "AQ3130-01ETG")
+    (pinAssignRef "ECS_998719")
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "NO")
+    (property "refDesPrefix" "D")
+    (property "description" "ESD Suppressors / TVS Diodes 0.3pF 10KV AEC-Q101")
+    (property "Mouser_Part_Number" "576-AQ3130-01ETG")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/Littelfuse/AQ3130-01ETG?qs=AQlKX63v8RuGigjCJJkgEA%3D%3D")
+    (property "Manufacturer_Name" "LITTELFUSE")
+    (property "Manufacturer_Part_Number" "AQ3130-01ETG")
+    (property "Datasheet_Link" "https://www.arrow.com/en/products/aq3130-01etg/littelfuse")
+    (property "compAreaTopHeight" 0.6)
+)
+
+

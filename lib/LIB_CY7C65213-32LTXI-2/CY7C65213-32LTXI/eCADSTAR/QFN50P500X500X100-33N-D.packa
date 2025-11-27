@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "CY7C65213-32LTXI"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2024-01-25-21:25:52)
+    (mountForm default
+        (footprintRef "QFN50P500X500X100-33N-D")
+        (spec "System")
+    )
+)

@@ -1,0 +1,9 @@
+Manufacturer=LITTELFUSE
+PartNumber=SP3422-04UTG
+PartCategory=TVS Diode (Bi-directional)
+PackageCategory=Other
+PinCount=5
+Version=2.5
+Released=2022-02-16 12:37:16
+Downloaded=2025-11-27 09:32:49
+3D=Y

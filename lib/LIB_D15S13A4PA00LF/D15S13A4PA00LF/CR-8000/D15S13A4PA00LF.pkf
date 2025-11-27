@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "D15S13A4PA00LF"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "D15S13A4PA00LF")
+        (spec "default")
+    )
+)

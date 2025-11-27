@@ -1,0 +1,9 @@
+Manufacturer=LITTELFUSE
+PartNumber=AQ3130-01ETG
+PartCategory=TVS Diode (Bi-directional)
+PackageCategory=Other
+PinCount=2
+Version=1.2
+Released=2020-12-06 12:19:03
+Downloaded=2025-12-01 09:36:59
+3D=Y

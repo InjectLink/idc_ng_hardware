@@ -1,0 +1,17 @@
+.ARJM11D7-114-AB-EW2 :1 ;Modular Connectors / Ethernet Connectors
+ARJM11D7114ABEW2
+*STM J
+*NGS
+*PNM 1=1 2=2 3=3 4=4 5=5 6=6 7=7 8=8 9=9 10=10 11=L1 12=L2 13=L3 14=L4 15=MH1 16=MH2
+*PLB 1="VC-_1" 2="VC-_2" 3="RD-" 4="RCT" 5="RD+" 6="VC+_1" 7="VC+_2" 8="TD-" 9="TCT" 10="TD+" 11="ANODE GREEN" 12="CATHODE GREEN" 13="ANODE YELLOW" 14="CATHODE YELLOW" 15="MH1" 16="MH2"
+*MXP 18
+*DFN ARJM11D7-114-AB-EW2
+~!Mouser Part Number (815-RJM11D7114ABEW2)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/ABRACON/ARJM11D7-114-AB-EW2?qs=YCa%2FAAYMW02ICsJcHu%252BNJg%3D%3D)
+~!Manufacturer_Name (ABRACON)
+~!Manufacturer_Part_Number (ARJM11D7-114-AB-EW2)
+~!Link Datasheet (-)
+~!Height (13.6mm)
+~!3D_Model (ARJM11D7-114-AB-EW2)
+ARJM11D7-114-AB-EW2
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 13.1!U 14.1!U 15.1!U 16.1!U 

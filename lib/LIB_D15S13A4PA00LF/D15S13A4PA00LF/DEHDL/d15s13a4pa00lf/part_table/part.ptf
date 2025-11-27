@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'D15S13A4PA00LF'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Amphenol Communications Solutions", "D15S13A4PA00LF" (!) = "", "D15S13A4PA00LF", "Other", "", "", "15 Position D-Sub Receptacle, Female Sockets Connector 2 (DA, A) 300V -55C ~ 125C", "https://cdn.amphenol-cs.com/media/wysiwyg/files/drawing/c01-8646-0304.pdf", "13.86 mm"
+END_PART
+
+END.

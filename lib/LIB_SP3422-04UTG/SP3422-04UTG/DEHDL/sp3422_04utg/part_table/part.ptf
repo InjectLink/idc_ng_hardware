@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'SP3422_04UTG'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "LITTELFUSE", "SP3422-04UTG" (!) = "", "SP342204UTG", "Other", "576-SP3422-04UTG", "https://www.mouser.co.uk/ProductDetail/Littelfuse/SP3422-04UTG?qs=EU6FO9ffTwfAWj9yOPme2w%3D%3D", "16.7V (Typ) Clamp 2A (8/20s) Ipp Tvs Diode Surface Mount 5-DFN (1x0.6)", "https://www.littelfuse.com/media?resourcetype=datasheets&itemid=c0e37064-4c14-4ca3-ae66-fc94f4b4ea0a&filename=littelfuse-tvs-diode-array-sp3422-datasheet", "0.5 mm"
+END_PART
+
+END.

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP VY2102M29Y5US6TV7
+D Vishay Single Layer Ceramic Capacitor (SLCC) 1nF 300V ac +/-20% Y5U Dielectric, VY2, Through Hole +125C Max Op. Temp.
+K
+F https://www.vishay.com/docs/28535/vy2series.pdf
+$ENDCMP
+#
+#End Doc Library

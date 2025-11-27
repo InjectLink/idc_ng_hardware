@@ -1,0 +1,16 @@
+.TPS22919DCKR :1 ;5.5V, 1.5A, 90m self-protected load switch with controlled rise time
+SOT65P210X110-6N
+*STM IC
+*NGS
+*PLB 1="IN" 2="GND" 3="ON" 4="N/C" 5="QOD" 6="OUT"
+*MXP 6
+*DFN TPS22919DCKR
+~!Mouser Part Number (595-TPS22919DCKR)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPS22919DCKR?qs=byeeYqUIh0P8WJZpeizUqw%3D%3D)
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (TPS22919DCKR)
+~!Link Datasheet (http://www.ti.com/lit/ds/symlink/tps22919.pdf)
+~!Height (1.1mm)
+~!3D_Model (TPS22919DCKR)
+TPS22919DCKR
+1.1!U 2.1!U 3.1!U 6.1!U 5.1!U 4.1!U 

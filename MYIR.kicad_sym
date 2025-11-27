@@ -82,7 +82,7 @@
 			(pin passive line
 				(at -88.9 -19.05 0)
 				(length 5.08)
-				(name "DCMIPP_D0"
+				(name "DCMIPP_D0/PA9"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -100,7 +100,7 @@
 			(pin passive line
 				(at -88.9 -21.59 0)
 				(length 5.08)
-				(name "DCMIPP_D4"
+				(name "DCMIPP_D4/PE13"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -118,7 +118,7 @@
 			(pin passive line
 				(at -88.9 -24.13 0)
 				(length 5.08)
-				(name "DCMIPP_D1"
+				(name "DCMIPP_D1/PD0"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -136,7 +136,7 @@
 			(pin passive line
 				(at -88.9 -26.67 0)
 				(length 5.08)
-				(name "DCMIPP_D5"
+				(name "DCMIPP_D5/PD3"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -154,7 +154,7 @@
 			(pin passive line
 				(at -88.9 -29.21 0)
 				(length 5.08)
-				(name "DCMIPP_D7"
+				(name "DCMIPP_D7/PE9"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -172,7 +172,7 @@
 			(pin passive line
 				(at -88.9 -31.75 0)
 				(length 5.08)
-				(name "DCMIPP_D2"
+				(name "DCMIPP_D2/PH14"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -190,7 +190,7 @@
 			(pin passive line
 				(at -88.9 -34.29 0)
 				(length 5.08)
-				(name "DCMIPP_D6"
+				(name "DCMIPP_D6/PB8"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -208,7 +208,7 @@
 			(pin passive line
 				(at -88.9 -36.83 0)
 				(length 5.08)
-				(name "DCMIPP_D3"
+				(name "DCMIPP_D3/PE4"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -226,7 +226,7 @@
 			(pin passive line
 				(at -88.9 -39.37 0)
 				(length 5.08)
-				(name "DCMIPP_PIXCLK"
+				(name "DCMIPP_PIXCLK/PB7"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -244,7 +244,7 @@
 			(pin passive line
 				(at -88.9 -41.91 0)
 				(length 5.08)
-				(name "DCMIPP_VS"
+				(name "DCMIPP_VS/PG9"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -262,7 +262,7 @@
 			(pin passive line
 				(at -88.9 -44.45 0)
 				(length 5.08)
-				(name "DCMIPP_HS"
+				(name "DCMIPP_HS/PH8"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -406,7 +406,7 @@
 			(pin passive line
 				(at -88.9 -64.77 0)
 				(length 5.08)
-				(name "ETH2_MDIO"
+				(name "ETH2_MDIO/PB6"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -424,7 +424,7 @@
 			(pin passive line
 				(at -88.9 -67.31 0)
 				(length 5.08)
-				(name "ETH2_MDC"
+				(name "ETH2_MDC/PG5"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -442,7 +442,7 @@
 			(pin passive line
 				(at -88.9 -69.85 0)
 				(length 5.08)
-				(name "ETH2_TXCTL"
+				(name "ETH2_TXCTL/PF6"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -460,7 +460,7 @@
 			(pin passive line
 				(at -88.9 -72.39 0)
 				(length 5.08)
-				(name "ETH2_TXD3"
+				(name "ETH2_TXD3/PE6"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -478,7 +478,7 @@
 			(pin passive line
 				(at -88.9 -74.93 0)
 				(length 5.08)
-				(name "ETH2_TXD2"
+				(name "ETH2_TXD2/PG1"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -496,7 +496,7 @@
 			(pin passive line
 				(at -88.9 -77.47 0)
 				(length 5.08)
-				(name "ETH2_TXD1"
+				(name "ETH2_TXD1/PG11"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -514,7 +514,7 @@
 			(pin passive line
 				(at -88.9 -80.01 0)
 				(length 5.08)
-				(name "ETH2_TXD0"
+				(name "ETH2_TXD0/PF7"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -550,7 +550,7 @@
 			(pin passive line
 				(at -88.9 -85.09 0)
 				(length 5.08)
-				(name "ETH2_TXC"
+				(name "ETH2_TXC/PG3"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -586,7 +586,7 @@
 			(pin passive line
 				(at -88.9 -90.17 0)
 				(length 5.08)
-				(name "ETH2_TXCTL"
+				(name "ETH2_TXCTL/PA12"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -604,7 +604,7 @@
 			(pin passive line
 				(at -88.9 -92.71 0)
 				(length 5.08)
-				(name "ETH2_RXC"
+				(name "ETH2_RXC/PH11"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -622,7 +622,7 @@
 			(pin passive line
 				(at -88.9 -95.25 0)
 				(length 5.08)
-				(name "ETH2_RXD2"
+				(name "ETH2_RXD2/PH6"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -640,7 +640,7 @@
 			(pin passive line
 				(at -88.9 -97.79 0)
 				(length 5.08)
-				(name "ETH2_RXD3"
+				(name "ETH2_RXD3/PA8"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -658,7 +658,7 @@
 			(pin passive line
 				(at -88.9 -100.33 0)
 				(length 5.08)
-				(name "ETH2_RXD0"
+				(name "ETH2_RXD0/PF4"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -676,7 +676,7 @@
 			(pin passive line
 				(at -88.9 -102.87 0)
 				(length 5.08)
-				(name "ETH2_RXD1"
+				(name "ETH2_RXD1/PE2"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -712,7 +712,7 @@
 			(pin passive line
 				(at -88.9 -107.95 0)
 				(length 5.08)
-				(name "ETH2_CLK125"
+				(name "ETH2_CLK125/PH2"
 					(effects
 						(font
 							(size 1.27 1.27)

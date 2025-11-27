@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'VY2102M29Y5US6TV7'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Vishay", "VY2102M29Y5US6TV7" (!) = "", "VY2102M29Y5US6TV7", "Other", "72-VY2102M29Y5US6TV7", "https://www.mouser.co.uk/ProductDetail/Vishay-BC-Components/VY2102M29Y5US6TV7?qs=L4FwfU3379UNAUtS2WN2jw%3D%3D", "Vishay Single Layer Ceramic Capacitor (SLCC) 1nF 300V ac +/-20% Y5U Dielectric, VY2, Through Hole +125C Max Op. Temp.", "https://www.vishay.com/docs/28535/vy2series.pdf", "11.5 mm"
+END_PART
+
+END.

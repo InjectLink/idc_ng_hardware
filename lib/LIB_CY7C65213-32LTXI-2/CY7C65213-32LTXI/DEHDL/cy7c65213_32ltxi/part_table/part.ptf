@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'CY7C65213_32LTXI'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Infineon", "CY7C65213-32LTXI" (!) = "", "QFN50P500X500X100-33N-D", "Quad Flat No-Lead", "727-CY7C65213-32LTXI", "https://www.mouser.co.uk/ProductDetail/Cypress-Semiconductor/CY7C65213-32LTXI?qs=zaNmQhktveH29yVGSodaDg%3D%3D", "USB Interface IC USB-UART LP Bridge Controller", "https://www.cypress.com/file/139881/download", "1 mm"
+END_PART
+
+END.

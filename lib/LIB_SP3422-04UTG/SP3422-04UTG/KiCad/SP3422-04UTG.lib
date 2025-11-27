@@ -1,0 +1,26 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model SP3422-04UTG
+#/1023440/1805544/2.50/5/3/TVS Diode (Bi-directional)
+DEF SP3422-04UTG D 0 30 Y Y 1 F N
+F0 "D" 1050 300 50 H V L CNN
+F1 "SP3422-04UTG" 1050 200 50 H V L CNN
+F2 "SP342204UTG" 1050 100 50 H I L CNN
+F3 "https://www.littelfuse.com/media?resourcetype=datasheets&itemid=c0e37064-4c14-4ca3-ae66-fc94f4b4ea0a&filename=littelfuse-tvs-diode-array-sp3422-datasheet" 1050 0 50 H I L CNN
+F4 "16.7V (Typ) Clamp 2A (8/20s) Ipp Tvs Diode Surface Mount 5-DFN (1x0.6)" 1050 -100 50 H I L CNN "Description"
+F5 "0.5" 1050 -200 50 H I L CNN "Height"
+F6 "576-SP3422-04UTG" 1050 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Littelfuse/SP3422-04UTG?qs=EU6FO9ffTwfAWj9yOPme2w%3D%3D" 1050 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "LITTELFUSE" 1050 -500 50 H I L CNN "Manufacturer_Name"
+F9 "SP3422-04UTG" 1050 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X I/O_1 1 0 0 200 R 50 50 0 0 P
+X GND 2 0 -100 200 R 50 50 0 0 P
+X I/O_2 3 0 -200 200 R 50 50 0 0 P
+X I/O_3 4 1200 -100 200 L 50 50 0 0 P
+X I/O_4 5 1200 0 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 1000 100 1000 -300 200 -300 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

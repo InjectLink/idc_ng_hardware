@@ -1,0 +1,17 @@
+.ARJM11C7-009-AB-EW2 :1 ;Conn RJ-45 F 8 POS 1.27mm Solder RA Thru-Hole 12 Terminal 1 Port Tray
+ARJM11C7009ABEW2
+*STM J
+*NGS
+*PNM 1=1 2=2 3=3 4=4 5=5 6=6 7=7 8=8 9=L1 10=L2 11=L3 12=L4 13=MH1 14=MH2
+*PLB 1="TD+" 2="TD-" 3="RD+" 4="TCT" 5="RCT" 6="RD-" 7="NULL" 8="GND" 9="GREEN_A" 10="GREEN_K" 11="YELLOW_A" 12="YELLOW_K" 13="MH1" 14="MH2"
+*MXP 16
+*DFN ARJM11C7-009-AB-EW2
+~!Mouser Part Number (815-RJM11C7009ABEW2)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/ABRACON/ARJM11C7-009-AB-EW2?qs=YCa%2FAAYMW016No73G%2F4GTg%3D%3D)
+~!Manufacturer_Name (ABRACON)
+~!Manufacturer_Part_Number (ARJM11C7-009-AB-EW2)
+~!Link Datasheet (https://datasheet.datasheetarchive.com/originals/dk/DKDS41/DSANUWW0031023.pdf)
+~!Height (15.3mm)
+~!3D_Model (ARJM11C7-009-AB-EW2)
+ARJM11C7-009-AB-EW2
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 13.1!U 14.1!U 

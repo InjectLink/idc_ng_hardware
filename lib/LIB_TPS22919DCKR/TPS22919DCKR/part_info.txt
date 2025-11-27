@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=TPS22919DCKR
+PartCategory=Integrated Circuit
+PackageCategory=SOT23 (6-Pin)
+PinCount=6
+Version=2.1
+Released=2019-03-16 12:09:29
+Downloaded=2025-11-13 16:38:51
+3D=Y
