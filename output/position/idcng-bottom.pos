@@ -1,4 +1,4 @@
-### Footprint positions - created on 2025-12-01T15:38:14+0100 ###
+### Footprint positions - created on 2025-12-02T09:41:01+0100 ###
 ### Printed by KiCad version 9.0.5
 ## Unit = mm, Angle = deg.
 ## Side : bottom
@@ -6,10 +6,7 @@
 C17       1u/16V        C_0603_1608Metric    25.8746   -84.8153  180.0000  bottom
 C26       1u/16V        C_0603_1608Metric    39.7776  -104.4498    0.0000  bottom
 C44       10u/16V       C_0805_2012Metric    29.0993   -84.6112    0.0000  bottom
-C45       22p/50V       C_0201_0603Metric    67.8868  -122.4127  -90.0000  bottom
-C46       22p/50V       C_0201_0603Metric    74.3751  -122.7660   90.0000  bottom
 D8        SP3422-04UTG  SP342204UTG          26.2198   -90.1037  180.0000  bottom
 D9        SP3422-04UTG  SP342204UTG          31.5538   -89.9880  180.0000  bottom
 R2        47k           R_0201_0603Metric    26.7936  -109.7633  180.0000  bottom
-Y1        830105863709  830105863709         71.1183  -122.5197    0.0000  bottom
 ## End

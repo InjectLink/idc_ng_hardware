@@ -3787,7 +3787,7 @@
 		)
 	)
 	(global_label "VDDCR"
-		(shape input)
+		(shape output)
 		(at 106.68 17.78 180)
 		(fields_autoplaced yes)
 		(effects

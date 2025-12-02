@@ -2529,7 +2529,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "SOM_MP151.kicad_sch"
+		(property "Sheetfile" "SOM_MP135.kicad_sch"
 			(at 44.45 192.3546 0)
 			(effects
 				(font
@@ -2589,7 +2589,7 @@
 		)
 	)
 	(sheet
-		(at 71.12 170.18)
+		(at 80.01 170.18)
 		(size 12.7 7.62)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2605,7 +2605,7 @@
 		)
 		(uuid "3d9fd628-6054-4637-adb1-39275d0646a6")
 		(property "Sheetname" "USB UART"
-			(at 71.12 169.4684 0)
+			(at 80.01 169.4684 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2614,7 +2614,7 @@
 			)
 		)
 		(property "Sheetfile" "usb_uart.kicad_sch"
-			(at 71.12 178.3846 0)
+			(at 80.01 178.3846 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2673,7 +2673,7 @@
 		)
 	)
 	(sheet
-		(at 44.45 170.18)
+		(at 49.53 170.18)
 		(size 12.7 7.62)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2689,7 +2689,7 @@
 		)
 		(uuid "a43fe0ca-c939-4e73-a956-6c3b7928fb57")
 		(property "Sheetname" "SDcard"
-			(at 44.45 169.4684 0)
+			(at 49.53 169.4684 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2698,7 +2698,7 @@
 			)
 		)
 		(property "Sheetfile" "sdcard.kicad_sch"
-			(at 44.45 178.3846 0)
+			(at 49.53 178.3846 0)
 			(effects
 				(font
 					(size 1.27 1.27)

@@ -1,4 +1,4 @@
-### Footprint positions - created on 2025-12-01T15:38:14+0100 ###
+### Footprint positions - created on 2025-12-02T09:41:01+0100 ###
 ### Printed by KiCad version 9.0.5
 ## Unit = mm, Angle = deg.
 ## Side : top
@@ -39,6 +39,8 @@ C40       100n/16V                C_0201_0603Metric                             
 C41       100n/16V                C_0201_0603Metric                                   81.3235  -102.9907    0.0000  top
 C42       1n/2kV                  C_1206_3216Metric                                   93.2790   -91.5851  -90.0000  top
 C43       22u/16V                 C_0603_1608Metric                                   53.6987  -162.1930  -90.0000  top
+C45       22p/50V                 C_0201_0603Metric                                   69.3315  -118.2352  180.0000  top
+C46       22p/50V                 C_0201_0603Metric                                   66.1623  -121.2642   90.0000  top
 D1        SP3422-04UTG            SP342204UTG                                         61.7803   -90.0212  180.0000  top
 D2        UCLAMP0501H.TCT         SODFL1608X70N                                       27.9299  -148.6359  180.0000  top
 D3        UCLAMP0501H.TCT         SODFL1608X70N                                       66.3787   -89.5192    0.0000  top
@@ -109,4 +111,5 @@ U8        MYC-YF135-4E512D-100-I  MYCYA151C256N256D65CT                         
 U9        MCP2557FD-H/SN          SOIC-8_3.9x4.9mm_P1.27mm                            87.5489  -163.0665  180.0000  top
 U10       XR33180ESBTR            TSOT-23-5                                           68.1020  -164.2975  -90.0000  top
 U11       18012115421H            SOIC-8_7.5x5.85mm_P1.27mm                           79.2993  -153.3405  -90.0000  top
+Y1        830105863709            830105863709                                        69.4192  -121.0179  180.0000  top
 ## End
