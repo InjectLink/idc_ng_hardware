@@ -1,0 +1,9 @@
+Manufacturer=ABRACON
+PartNumber=ARJM11D7-114-AB-EW2
+PartCategory=Connector
+PackageCategory=Other
+PinCount=16
+Version=1.2
+Released=2020-02-01 15:57:46
+Downloaded=2025-11-26 10:53:01
+3D=Y

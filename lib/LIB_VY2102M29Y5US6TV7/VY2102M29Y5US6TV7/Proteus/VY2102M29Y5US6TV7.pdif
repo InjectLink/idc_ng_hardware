@@ -1,0 +1,134 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "VY2102M29Y5US6TV7"
+   (description "Vishay Single Layer Ceramic Capacitor (SLCC) 1nF 300V ac +/-20% Y5U Dielectric, VY2, Through Hole +125C Max Op. Temp.")
+   (family "CAP")
+   (package "VY2102M29Y5US6TV7")
+   (attribute "Datasheet Link" "https://www.vishay.com/docs/28535/vy2series.pdf")
+   (attribute "Geometry.Height" "11.5mm")
+   (attribute "Mouser Part Number" "72-VY2102M29Y5US6TV7")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Vishay-BC-Components/VY2102M29Y5US6TV7?qs=L4FwfU3379UNAUtS2WN2jw%3D%3D")
+   (attribute "Manufacturer_Name" "Vishay")
+   (attribute "Manufacturer_Part_Number" "VY2102M29Y5US6TV7")
+   (gate
+    (symbol "VY2102M29Y5US6TV7")
+    (pin "1" 1 PS)
+    (pin "2" 2 PS)
+   )
+  )
+  (symbol "VY2102M29Y5US6TV7"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 220 100) (pt 220 -100))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 280 100) (pt 280 -100))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 200 0) (pt 220 0))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 280 0) (pt 300 0))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 0 -10) (rot 0) (just TOP LEFT) (visible false))
+    (number (pt 0 10) (rot 0) (just BOTTOM LEFT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 500 0) (rot 0) (mir X) (visible true))
+    (name (pt 0 -10) (rot 0) (just TOP LEFT) (visible false))
+    (number (pt 0 10) (rot 0) (just BOTTOM LEFT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "VY2102M29Y5US6TV7"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt 0 2.5)
+      (pt 7.5 2.5)
+      (pt 7.5 -2.5)
+      (pt 0 -2.5)
+      (pt 0 2.5))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -1.65 3.5)
+      (pt 9.15 3.5)
+      (pt 9.15 -3.5)
+      (pt -1.65 -3.5)
+      (pt -1.65 3.5))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt 0 1)
+      (pt 0 2.5)
+      (pt 7.5 2.5)
+      (pt 7.5 1))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt 0 -1)
+      (pt 0 -2.5)
+      (pt 7.5 -2.5)
+      (pt 7.5 -1))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -1.1 0)
+      (arc (pt -1.100 0.000) (pt -1.200 -0.050) (pt -1.100 0.050) (start 180.0) (sweep .0))
+      (pt -1.2 0)
+      (arc (pt -1.200 0.000) (pt -1.200 -0.050) (pt -1.100 0.050) (start 180.0) (sweep 180.0))
+      (pt -1.1 0))))
+   (leg 1 (pt 0.000 0.000) (padstack 0))
+   (leg 2 (pt 7.500 0.000) (padstack 2))
+   (padstack 0
+    (hole 0.8)
+    (plated true)
+    (pad (layer TCOP) (square 1.300))
+    (pad (layer INNER) (round 1.300))
+    (pad (layer BCOP) (square 1.300))
+   )
+   (padstack 2
+    (hole 0.8)
+    (plated true)
+    (pad (layer TCOP) (round 1.300))
+    (pad (layer INNER) (round 1.300))
+    (pad (layer BCOP) (round 1.300))
+   )
+   (model "VY2102M29Y5US6TV7.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

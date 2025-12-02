@@ -1,0 +1,304 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "ARJM11C7-009-AB-EW2"
+   (description "Conn RJ-45 F 8 POS 1.27mm Solder RA Thru-Hole 12 Terminal 1 Port Tray")
+   (family "CON")
+   (package "ARJM11C7009ABEW2")
+   (attribute "Datasheet Link" "https://datasheet.datasheetarchive.com/originals/dk/DKDS41/DSANUWW0031023.pdf")
+   (attribute "Geometry.Height" "15.3mm")
+   (attribute "Mouser Part Number" "815-RJM11C7009ABEW2")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/ABRACON/ARJM11C7-009-AB-EW2?qs=YCa%2FAAYMW016No73G%2F4GTg%3D%3D")
+   (attribute "Manufacturer_Name" "ABRACON")
+   (attribute "Manufacturer_Part_Number" "ARJM11C7-009-AB-EW2")
+   (gate
+    (symbol "ARJM11C7-009-AB-EW2")
+    (pin "TD+" 1 PS)
+    (pin "TD-" 2 PS)
+    (pin "RD+" 3 PS)
+    (pin "TCT" 4 PS)
+    (pin "RCT" 5 PS)
+    (pin "RD-" 6 PS)
+    (pin "NULL" 7 PS)
+    (pin "GND" 8 PS)
+    (pin "GREEN_A" L1 PS)
+    (pin "GREEN_K" L2 PS)
+    (pin "YELLOW_A" L3 PS)
+    (pin "YELLOW_K" L4 PS)
+    (pin "MH1" MH1 PS)
+    (pin "MH2" MH2 PS)
+   )
+  )
+  (symbol "ARJM11C7-009-AB-EW2"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 1100 100) (pt 1100 -700) (pt 200 -700) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -200) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -300) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -400) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -500) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -600) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1300 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1300 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1300 -200) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1300 -300) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1300 -400) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1300 -500) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1300 -600) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "ARJM11C7009ABEW2"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -12.395 -19.69)
+      (pt 3.505 -19.69)
+      (pt 3.505 1.61)
+      (pt -12.395 1.61)
+      (pt -12.395 -19.69))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -12.395 -4.25)
+      (pt -12.395 -4.25)
+      (pt -12.395 1.61)
+      (pt -12.395 1.61)
+      (pt -12.395 -4.25))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -12.395 1.61)
+      (pt 3.505 1.61)
+      (pt 3.505 1.61)
+      (pt -12.395 1.61)
+      (pt -12.395 1.61))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt 3.505 1.61)
+      (pt 3.505 1.61)
+      (pt 3.505 -4.25)
+      (pt 3.505 -4.25)
+      (pt 3.505 1.61))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt 3.505 -7.5)
+      (pt 3.5 -7.5)
+      (pt 3.5 -10.5)
+      (pt 3.505 -10.5)
+      (pt 3.505 -7.5))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt 3.505 -14.5)
+      (pt 3.5 -14.5)
+      (pt 3.5 -19.69)
+      (pt 3.505 -19.69)
+      (pt 3.505 -14.5))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt 3.5 -19.69)
+      (pt -12.395 -19.69)
+      (pt -12.395 -19.69)
+      (pt 3.5 -19.69)
+      (pt 3.5 -19.69))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -12.395 -19.69)
+      (pt -12.395 -19.69)
+      (pt -12.395 -14.5)
+      (pt -12.395 -14.5)
+      (pt -12.395 -19.69))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -12.395 -10.5)
+      (pt -12.395 -10.5)
+      (pt -12.395 -7.5)
+      (pt -12.395 -7.5)
+      (pt -12.395 -10.5))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -14.498 2.61)
+      (pt 5.607 2.61)
+      (pt 5.607 -20.69)
+      (pt -14.498 -20.69)
+      (pt -14.498 2.61))))
+   (leg 1 (pt 0.000 0.000) (padstack 1))
+   (leg 2 (pt -1.270 -2.540) (padstack 0))
+   (leg 3 (pt -2.540 0.000) (padstack 0))
+   (leg 4 (pt -3.810 -2.540) (padstack 0))
+   (leg 5 (pt -5.080 0.000) (padstack 0))
+   (leg 6 (pt -6.350 -2.540) (padstack 0))
+   (leg 7 (pt -7.620 0.000) (padstack 0))
+   (leg 8 (pt -8.890 -2.540) (padstack 0))
+   (leg L1 (pt -11.245 -11.440) (padstack 9))
+   (leg L2 (pt -11.245 -13.470) (padstack 10))
+   (leg L3 (pt 2.355 -11.440) (padstack 11))
+   (leg L4 (pt 2.355 -13.470) (padstack 12))
+   (leg MH1 (pt 3.430 -5.840) (padstack 13))
+   (leg MH2 (pt -12.320 -5.840) (padstack 14))
+   (leg MH3 (pt 1.270 -8.890) (padstack 15))
+   (leg MH4 (pt -10.160 -8.890) (padstack 16))
+   (padstack 0
+    (hole 0.89)
+    (plated true)
+    (pad (layer TCOP) (round 1.446))
+    (pad (layer INNER) (round 1.446))
+    (pad (layer BCOP) (round 1.446))
+   )
+   (padstack 1
+    (hole 0.89)
+    (plated true)
+    (pad (layer TCOP) (square 1.446))
+    (pad (layer INNER) (round 1.446))
+    (pad (layer BCOP) (square 1.446))
+   )
+   (padstack 9
+    (hole 1.02)
+    (plated true)
+    (pad (layer TCOP) (round 1.530))
+    (pad (layer INNER) (round 1.530))
+    (pad (layer BCOP) (round 1.530))
+   )
+   (padstack 10
+    (hole 1.02)
+    (plated true)
+    (pad (layer TCOP) (round 1.530))
+    (pad (layer INNER) (round 1.530))
+    (pad (layer BCOP) (round 1.530))
+   )
+   (padstack 11
+    (hole 1.02)
+    (plated true)
+    (pad (layer TCOP) (round 1.530))
+    (pad (layer INNER) (round 1.530))
+    (pad (layer BCOP) (round 1.530))
+   )
+   (padstack 12
+    (hole 1.02)
+    (plated true)
+    (pad (layer TCOP) (round 1.530))
+    (pad (layer INNER) (round 1.530))
+    (pad (layer BCOP) (round 1.530))
+   )
+   (padstack 13
+    (hole 1.57)
+    (plated true)
+    (pad (layer TCOP) (round 2.355))
+    (pad (layer INNER) (round 2.355))
+    (pad (layer BCOP) (round 2.355))
+   )
+   (padstack 14
+    (hole 1.57)
+    (plated true)
+    (pad (layer TCOP) (round 2.355))
+    (pad (layer INNER) (round 2.355))
+    (pad (layer BCOP) (round 2.355))
+   )
+   (padstack 15
+    (hole 3.25)
+    (plated false)
+    (pad (layer TCOP) (round 1.625))
+    (pad (layer INNER) (round 1.625))
+    (pad (layer BCOP) (round 1.625))
+   )
+   (padstack 16
+    (hole 3.25)
+    (plated false)
+    (pad (layer TCOP) (round 1.625))
+    (pad (layer INNER) (round 1.625))
+    (pad (layer BCOP) (round 1.625))
+   )
+   (model "ARJM11C7-009-AB-EW2.stp"
+    (euler 90 0 0)
+    (offset -12.149999618530273 -19.510000228881836 -3.940000057220459)
+   )
+  )
+ )
+)

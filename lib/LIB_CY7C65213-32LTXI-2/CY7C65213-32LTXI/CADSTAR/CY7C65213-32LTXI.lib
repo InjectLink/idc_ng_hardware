@@ -1,0 +1,16 @@
+.CY7C65213-32LTXI :1 ;USB Interface IC USB-UART LP Bridge Controller
+QFN50P500X500X100-33N-D
+*STM IC
+*NGS
+*PLB 1="VCCIO" 2="RXD" 3="RI#" 4="GND_1" 5="GPIO5" 6="DSR#" 7="DCD#" 8="CTS#" 9="GPIO4" 10="GPIO2" 11="GPIO3" 12="GPIO6" 13="GPIO7" 14="USBDP" 15="USBDM" 16="VCCD" 17="GND_2" 18="RESET#" 19="VCC" 20="GND_3" 21="GPIO1" 22="GPIO0" 23="DNU_1" 24="AGND" 25="DNU_2" 26="DNU_3" 27="DNU_4" 28="DNU_5" 29="DNU_6" 30="TXD" 31="DTR#" 32="RTS#" 33="EP"
+*MXP 33
+*DFN CY7C65213-32LTXI
+~!Mouser Part Number (727-CY7C65213-32LTXI)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Cypress-Semiconductor/CY7C65213-32LTXI?qs=zaNmQhktveH29yVGSodaDg%3D%3D)
+~!Manufacturer_Name (Infineon)
+~!Manufacturer_Part_Number (CY7C65213-32LTXI)
+~!Link Datasheet (https://www.cypress.com/file/139881/download)
+~!Height (1mm)
+~!3D_Model (CY7C65213-32LTXI)
+CY7C65213-32LTXI
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 13.1!U 14.1!U 15.1!U 16.1!U 24.1!U 23.1!U 22.1!U 21.1!U 20.1!U 19.1!U 18.1!U 17.1!U 33.1!U 32.1!U 31.1!U 30.1!U 29.1!U 28.1!U 27.1!U 26.1!U 25.1!U 

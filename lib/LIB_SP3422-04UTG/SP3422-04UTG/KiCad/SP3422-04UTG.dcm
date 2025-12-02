@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SP3422-04UTG
+D 16.7V (Typ) Clamp 2A (8/20s) Ipp Tvs Diode Surface Mount 5-DFN (1x0.6)
+K
+F https://www.littelfuse.com/media?resourcetype=datasheets&itemid=c0e37064-4c14-4ca3-ae66-fc94f4b4ea0a&filename=littelfuse-tvs-diode-array-sp3422-datasheet
+$ENDCMP
+#
+#End Doc Library

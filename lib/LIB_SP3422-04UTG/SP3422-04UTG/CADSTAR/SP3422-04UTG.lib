@@ -1,0 +1,16 @@
+.SP3422-04UTG :1 ;16.7V (Typ) Clamp 2A (8/20s) Ipp Tvs Diode Surface Mount 5-DFN (1x0.6)
+SP342204UTG
+*STM D
+*NGS
+*PLB 1="I/O_1" 2="GND" 3="I/O_2" 4="I/O_3" 5="I/O_4"
+*MXP 5
+*DFN SP3422-04UTG
+~!Mouser Part Number (576-SP3422-04UTG)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Littelfuse/SP3422-04UTG?qs=EU6FO9ffTwfAWj9yOPme2w%3D%3D)
+~!Manufacturer_Name (LITTELFUSE)
+~!Manufacturer_Part_Number (SP3422-04UTG)
+~!Link Datasheet (https://www.littelfuse.com/media?resourcetype=datasheets&itemid=c0e37064-4c14-4ca3-ae66-fc94f4b4ea0a&filename=littelfuse-tvs-diode-array-sp3422-datasheet)
+~!Height (0.5mm)
+~!3D_Model (SP3422-04UTG)
+SP3422-04UTG
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 

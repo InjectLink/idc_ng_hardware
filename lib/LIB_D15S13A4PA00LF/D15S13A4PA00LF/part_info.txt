@@ -1,0 +1,9 @@
+Manufacturer=Amphenol Communications Solutions
+PartNumber=D15S13A4PA00LF
+PartCategory=Connector
+PackageCategory=Other
+PinCount=15
+Version=2.4
+Released=2025-07-12 05:27:20
+Downloaded=2025-11-14 17:32:39
+3D=Y

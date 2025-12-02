@@ -1,0 +1,16 @@
+.VY2102M29Y5US6TV7 :1 ;Vishay Single Layer Ceramic Capacitor (SLCC) 1nF 300V ac +/-20% Y5U Dielectric, VY2, Through Hole +125C Max Op. Temp.
+VY2102M29Y5US6TV7
+*STM C
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN VY2102M29Y5US6TV7
+~!Mouser Part Number (72-VY2102M29Y5US6TV7)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Vishay-BC-Components/VY2102M29Y5US6TV7?qs=L4FwfU3379UNAUtS2WN2jw%3D%3D)
+~!Manufacturer_Name (Vishay)
+~!Manufacturer_Part_Number (VY2102M29Y5US6TV7)
+~!Link Datasheet (https://www.vishay.com/docs/28535/vy2series.pdf)
+~!Height (11.5mm)
+~!3D_Model (VY2102M29Y5US6TV7)
+VY2102M29Y5US6TV7
+1.1!U 2.1!U 

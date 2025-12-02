@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'ARJM11D7_114_AB_EW2'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "ABRACON", "ARJM11D7-114-AB-EW2" (!) = "", "ARJM11D7114ABEW2", "Other", "815-RJM11D7114ABEW2", "https://www.mouser.co.uk/ProductDetail/ABRACON/ARJM11D7-114-AB-EW2?qs=YCa%2FAAYMW02ICsJcHu%252BNJg%3D%3D", "Modular Connectors / Ethernet Connectors", "", "13.6 mm"
+END_PART
+
+END.

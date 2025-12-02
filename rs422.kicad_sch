@@ -1143,8 +1143,8 @@
 		)
 	)
 	(rectangle
-		(start 142.24 67.31)
-		(end 228.6 104.14)
+		(start 147.32 69.85)
+		(end 240.03 106.68)
 		(stroke
 			(width 0)
 			(type default)
@@ -1168,7 +1168,7 @@
 	)
 	(text "RS422 isolation"
 		(exclude_from_sim no)
-		(at 152.908 69.85 0)
+		(at 164.338 72.39 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1187,13 +1187,13 @@
 		(uuid "727f8850-45b6-44b9-a66e-50a5217d32fb")
 	)
 	(junction
-		(at 153.67 81.28)
+		(at 158.75 83.82)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "54eed055-709d-4983-bbe4-d70e667ce15d")
 	)
 	(junction
-		(at 218.44 81.28)
+		(at 229.87 83.82)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "57249477-957e-48bd-915e-796c4bf3361e")
@@ -1205,7 +1205,7 @@
 		(uuid "8bb137ce-65bd-4ae5-9ced-3f9a5986363d")
 	)
 	(junction
-		(at 218.44 91.44)
+		(at 229.87 93.98)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b0d9a775-d853-427d-9b32-f3650bea9b54")
@@ -1217,14 +1217,14 @@
 		(uuid "eadeb79d-7b8c-4a4f-a224-651eb2bdcdc4")
 	)
 	(junction
-		(at 153.67 91.44)
+		(at 158.75 93.98)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f9a747eb-a3cd-4f73-a5df-32ecea93dce6")
 	)
 	(wire
 		(pts
-			(xy 196.85 81.28) (xy 218.44 81.28)
+			(xy 208.28 83.82) (xy 229.87 83.82)
 		)
 		(stroke
 			(width 0)
@@ -1234,7 +1234,7 @@
 	)
 	(wire
 		(pts
-			(xy 153.67 91.44) (xy 153.67 92.71)
+			(xy 158.75 93.98) (xy 158.75 95.25)
 		)
 		(stroke
 			(width 0)
@@ -1254,7 +1254,7 @@
 	)
 	(wire
 		(pts
-			(xy 153.67 81.28) (xy 153.67 82.55)
+			(xy 158.75 83.82) (xy 158.75 85.09)
 		)
 		(stroke
 			(width 0)
@@ -1274,7 +1274,7 @@
 	)
 	(wire
 		(pts
-			(xy 153.67 81.28) (xy 153.67 78.74)
+			(xy 158.75 83.82) (xy 158.75 81.28)
 		)
 		(stroke
 			(width 0)
@@ -1284,7 +1284,7 @@
 	)
 	(wire
 		(pts
-			(xy 218.44 81.28) (xy 218.44 78.74)
+			(xy 229.87 83.82) (xy 229.87 81.28)
 		)
 		(stroke
 			(width 0)
@@ -1304,7 +1304,7 @@
 	)
 	(wire
 		(pts
-			(xy 171.45 91.44) (xy 153.67 91.44)
+			(xy 182.88 93.98) (xy 158.75 93.98)
 		)
 		(stroke
 			(width 0)
@@ -1314,7 +1314,7 @@
 	)
 	(wire
 		(pts
-			(xy 218.44 90.17) (xy 218.44 91.44)
+			(xy 229.87 92.71) (xy 229.87 93.98)
 		)
 		(stroke
 			(width 0)
@@ -1324,7 +1324,7 @@
 	)
 	(wire
 		(pts
-			(xy 171.45 81.28) (xy 153.67 81.28)
+			(xy 182.88 83.82) (xy 158.75 83.82)
 		)
 		(stroke
 			(width 0)
@@ -1334,7 +1334,7 @@
 	)
 	(wire
 		(pts
-			(xy 196.85 91.44) (xy 218.44 91.44)
+			(xy 208.28 93.98) (xy 229.87 93.98)
 		)
 		(stroke
 			(width 0)
@@ -1344,7 +1344,7 @@
 	)
 	(wire
 		(pts
-			(xy 218.44 91.44) (xy 218.44 92.71)
+			(xy 229.87 93.98) (xy 229.87 95.25)
 		)
 		(stroke
 			(width 0)
@@ -1354,7 +1354,7 @@
 	)
 	(wire
 		(pts
-			(xy 153.67 90.17) (xy 153.67 91.44)
+			(xy 158.75 92.71) (xy 158.75 93.98)
 		)
 		(stroke
 			(width 0)
@@ -1384,7 +1384,7 @@
 	)
 	(wire
 		(pts
-			(xy 218.44 81.28) (xy 218.44 82.55)
+			(xy 229.87 83.82) (xy 229.87 85.09)
 		)
 		(stroke
 			(width 0)
@@ -1436,9 +1436,9 @@
 			)
 		)
 	)
-	(global_label "UART2_RX"
+	(global_label "422_UART_TX2RX"
 		(shape input)
-		(at 171.45 88.9 180)
+		(at 182.88 91.44 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1448,7 +1448,7 @@
 		)
 		(uuid "2e64f298-f676-48a1-9053-109584d6be70")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 159.1515 88.9 0)
+			(at 163.8083 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1480,9 +1480,9 @@
 			)
 		)
 	)
-	(global_label "UART2_RX_SOM"
+	(global_label "UART7_RX"
 		(shape input)
-		(at 196.85 88.9 0)
+		(at 208.28 91.44 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1492,7 +1492,7 @@
 		)
 		(uuid "4a082e59-2753-4686-b895-82b9a41fea8e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 214.1075 88.9 0)
+			(at 220.5785 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1502,7 +1502,7 @@
 			)
 		)
 	)
-	(global_label "UART2_RX"
+	(global_label "422_UART_TX2RX"
 		(shape input)
 		(at 90.17 109.22 180)
 		(fields_autoplaced yes)
@@ -1514,7 +1514,7 @@
 		)
 		(uuid "4afad1d1-5ecd-4f86-a550-4a5f5999ab97")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 77.8715 109.22 0)
+			(at 71.0983 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1524,9 +1524,9 @@
 			)
 		)
 	)
-	(global_label "UART3_RX"
+	(global_label "422_UART_RX2RX"
 		(shape input)
-		(at 171.45 83.82 180)
+		(at 182.88 86.36 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1536,7 +1536,7 @@
 		)
 		(uuid "53d5fdec-4045-4120-a65e-d3312f852a8e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 159.1515 83.82 0)
+			(at 163.5059 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1546,7 +1546,7 @@
 			)
 		)
 	)
-	(global_label "UART3_RX"
+	(global_label "422_UART_RX2RX"
 		(shape input)
 		(at 90.17 77.47 180)
 		(fields_autoplaced yes)
@@ -1558,7 +1558,7 @@
 		)
 		(uuid "8428dfaa-5e9a-4105-829c-c467c2027785")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 77.8715 77.47 0)
+			(at 70.7959 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1568,9 +1568,9 @@
 			)
 		)
 	)
-	(global_label "UART3_RX_SOM"
+	(global_label "UART5_RX"
 		(shape input)
-		(at 196.85 83.82 0)
+		(at 208.28 86.36 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1580,7 +1580,7 @@
 		)
 		(uuid "bc6f43d3-345e-44be-8aac-653e1c7ce2ce")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 214.1075 83.82 0)
+			(at 220.5785 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1614,7 +1614,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 153.67 86.36 0)
+		(at 158.75 88.9 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1622,7 +1622,7 @@
 		(dnp no)
 		(uuid "04a8d861-0a17-46bf-8156-92cb85961cb1")
 		(property "Reference" "C16"
-			(at 146.812 85.09 0)
+			(at 150.876 88.646 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1630,8 +1630,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF"
-			(at 144.78 87.63 0)
+		(property "Value" "100n/16V"
+			(at 148.59 91.186 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1639,8 +1639,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
-			(at 154.6352 90.17 0)
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+			(at 159.7152 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1648,8 +1648,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
-			(at 153.67 86.36 0)
+		(property "Datasheet" "https://www.yuden.co.jp/productdata/catalog/mlcc02_e.pdf"
+			(at 158.75 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1658,7 +1658,88 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 153.67 86.36 0)
+			(at 158.75 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Arrow Part Number" ""
+			(at 158.75 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Arrow Price/Stock" ""
+			(at 158.75 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.fr/ProductDetail/TAIYO-YUDEN/EMK063BJ104KP-F?qs=sGAEpiMZZMuMW9TJLBQkXvVPYRc%2FyP08RnX4nNCZT4A%3D"
+			(at 158.75 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pricep1" "0,086"
+			(at 158.75 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pricep10" "0,042"
+			(at 158.75 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pricep100" "0,03"
+			(at 158.75 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Explanation" ""
+			(at 158.75 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 158.75 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 158.75 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1750,7 +1831,7 @@
 	)
 	(symbol
 		(lib_id "power:+3V3")
-		(at 218.44 78.74 0)
+		(at 229.87 81.28 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1758,7 +1839,7 @@
 		(dnp no)
 		(uuid "34b7eb7f-7f04-4788-8ad5-43855e679c81")
 		(property "Reference" "#PWR0122"
-			(at 218.44 82.55 0)
+			(at 229.87 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1767,7 +1848,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 218.44 73.66 0)
+			(at 229.87 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1775,7 +1856,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 218.44 78.74 0)
+			(at 229.87 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1784,7 +1865,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 218.44 78.74 0)
+			(at 229.87 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1793,7 +1874,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 218.44 78.74 0)
+			(at 229.87 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1815,7 +1896,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 218.44 86.36 0)
+		(at 229.87 88.9 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1823,7 +1904,7 @@
 		(dnp no)
 		(uuid "49891a46-a5b0-464a-a85c-0d5fbfcd8422")
 		(property "Reference" "C22"
-			(at 221.234 84.836 0)
+			(at 232.664 87.376 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1831,8 +1912,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF"
-			(at 221.488 87.122 0)
+		(property "Value" "100n/16V"
+			(at 232.918 89.662 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1840,8 +1921,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
-			(at 219.4052 90.17 0)
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+			(at 230.8352 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1849,8 +1930,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
-			(at 218.44 86.36 0)
+		(property "Datasheet" "https://www.yuden.co.jp/productdata/catalog/mlcc02_e.pdf"
+			(at 229.87 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1859,7 +1940,88 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 218.44 86.36 0)
+			(at 229.87 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Arrow Part Number" ""
+			(at 229.87 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Arrow Price/Stock" ""
+			(at 229.87 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.fr/ProductDetail/TAIYO-YUDEN/EMK063BJ104KP-F?qs=sGAEpiMZZMuMW9TJLBQkXvVPYRc%2FyP08RnX4nNCZT4A%3D"
+			(at 229.87 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pricep1" "0,086"
+			(at 229.87 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pricep10" "0,042"
+			(at 229.87 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pricep100" "0,03"
+			(at 229.87 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Explanation" ""
+			(at 229.87 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 229.87 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 229.87 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1951,7 +2113,7 @@
 	)
 	(symbol
 		(lib_id "Isolators:18012015421H")
-		(at 182.88 77.47 0)
+		(at 194.31 80.01 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1960,23 +2122,23 @@
 		(fields_autoplaced yes)
 		(uuid "65c2081e-8ab4-49cf-acba-63e2c822d308")
 		(property "Reference" "U1"
-			(at 184.15 73.66 0)
+			(at 195.58 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "~"
-			(at 184.15 76.2 0)
+		(property "Value" "18012015421H"
+			(at 195.58 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 182.88 77.47 0)
+		(property "Footprint" "Package_SO:SOIC-8_7.5x5.85mm_P1.27mm"
+			(at 194.31 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1984,8 +2146,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
-			(at 182.88 77.47 0)
+		(property "Datasheet" "https://www.we-online.com/components/products/datasheet/18012015421H.pdf"
+			(at 194.31 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1994,7 +2156,88 @@
 			)
 		)
 		(property "Description" ""
-			(at 182.88 77.47 0)
+			(at 194.31 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Arrow Part Number" ""
+			(at 194.31 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Arrow Price/Stock" ""
+			(at 194.31 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.fr/ProductDetail/Wurth-Elektronik/18012015421H?qs=3GbUB62Nf7d6HxiVQf9dVQ%3D%3D"
+			(at 194.31 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pricep1" "1,2"
+			(at 194.31 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pricep10" "1,15"
+			(at 194.31 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pricep100" "1,08"
+			(at 194.31 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Explanation" ""
+			(at 194.31 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 194.31 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 194.31 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2102,7 +2345,7 @@
 	)
 	(symbol
 		(lib_id "power:GND_ISO")
-		(at 153.67 92.71 0)
+		(at 158.75 95.25 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2111,7 +2354,7 @@
 		(fields_autoplaced yes)
 		(uuid "838b8f4e-e1bb-4b74-bcb0-c971e3b272f1")
 		(property "Reference" "#PWR0134"
-			(at 153.67 99.06 0)
+			(at 158.75 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2120,7 +2363,7 @@
 			)
 		)
 		(property "Value" "GND_ISO"
-			(at 153.67 97.79 0)
+			(at 158.75 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2128,7 +2371,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 153.67 92.71 0)
+			(at 158.75 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2137,7 +2380,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 153.67 92.71 0)
+			(at 158.75 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2146,7 +2389,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 153.67 92.71 0)
+			(at 158.75 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2183,7 +2426,7 @@
 				)
 			)
 		)
-		(property "Value" "100nF"
+		(property "Value" "100n/16V"
 			(at 94.234 62.738 90)
 			(effects
 				(font
@@ -2200,7 +2443,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.mouser.fr/ProductDetail/TAIYO-YUDEN/EMK063BJ104KP-F?qs=sGAEpiMZZMuMW9TJLBQkXvVPYRc%2FyP08RnX4nNCZT4A%3D"
+		(property "Datasheet" "https://www.yuden.co.jp/productdata/catalog/mlcc02_e.pdf"
 			(at 95.25 66.04 0)
 			(effects
 				(font
@@ -2211,6 +2454,87 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 95.25 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Arrow Part Number" ""
+			(at 95.25 66.04 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Arrow Price/Stock" ""
+			(at 95.25 66.04 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.fr/ProductDetail/TAIYO-YUDEN/EMK063BJ104KP-F?qs=sGAEpiMZZMuMW9TJLBQkXvVPYRc%2FyP08RnX4nNCZT4A%3D"
+			(at 95.25 66.04 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pricep1" "0,086"
+			(at 95.25 66.04 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pricep10" "0,042"
+			(at 95.25 66.04 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pricep100" "0,03"
+			(at 95.25 66.04 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Explanation" ""
+			(at 95.25 66.04 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 95.25 66.04 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 95.25 66.04 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2384,7 +2708,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "XR33180ESBTR"
 			(at 102.4733 99.06 0)
 			(effects
 				(font
@@ -2402,7 +2726,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.maxlinear.com/ds/XR33180_XR33181_XR33183_XR33184.pdf"
 			(at 99.06 97.79 0)
 			(effects
 				(font
@@ -2412,6 +2736,87 @@
 			)
 		)
 		(property "Description" ""
+			(at 99.06 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Arrow Part Number" ""
+			(at 99.06 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Arrow Price/Stock" ""
+			(at 99.06 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.fr/ProductDetail/MaxLinear/XR33180ESBTR?qs=jDo7WO9B8ms2mW%2FHX7Kofg%3D%3D"
+			(at 99.06 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pricep1" "0,894"
+			(at 99.06 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pricep10" "0,644"
+			(at 99.06 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pricep100" "0,513"
+			(at 99.06 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Explanation" ""
+			(at 99.06 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 99.06 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" ""
 			(at 99.06 97.79 0)
 			(effects
 				(font
@@ -2463,7 +2868,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "XR33180ESBTR"
 			(at 102.4733 67.31 0)
 			(effects
 				(font
@@ -2481,7 +2886,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.maxlinear.com/ds/XR33180_XR33181_XR33183_XR33184.pdf"
 			(at 99.06 66.04 0)
 			(effects
 				(font
@@ -2491,6 +2896,87 @@
 			)
 		)
 		(property "Description" ""
+			(at 99.06 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Arrow Part Number" ""
+			(at 99.06 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Arrow Price/Stock" ""
+			(at 99.06 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.fr/ProductDetail/MaxLinear/XR33180ESBTR?qs=jDo7WO9B8ms2mW%2FHX7Kofg%3D%3D"
+			(at 99.06 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pricep1" "0,894"
+			(at 99.06 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pricep10" "0,644"
+			(at 99.06 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pricep100" "0,513"
+			(at 99.06 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Explanation" ""
+			(at 99.06 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 99.06 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" ""
 			(at 99.06 66.04 0)
 			(effects
 				(font
@@ -2525,7 +3011,7 @@
 	)
 	(symbol
 		(lib_id "power:+5V_ISO")
-		(at 153.67 78.74 0)
+		(at 158.75 81.28 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2534,7 +3020,7 @@
 		(fields_autoplaced yes)
 		(uuid "a3f73e15-13bb-4007-9ab6-e59994d10238")
 		(property "Reference" "#PWR0121"
-			(at 153.67 82.55 0)
+			(at 158.75 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2543,7 +3029,7 @@
 			)
 		)
 		(property "Value" "+5V_ISO"
-			(at 153.67 73.66 0)
+			(at 158.75 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2551,7 +3037,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 153.67 78.74 0)
+			(at 158.75 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2560,7 +3046,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 153.67 78.74 0)
+			(at 158.75 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2569,7 +3055,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 153.67 78.74 0)
+			(at 158.75 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2599,15 +3085,15 @@
 		(dnp no)
 		(uuid "b2c9ecc7-9981-4ac9-a18b-4de64530a042")
 		(property "Reference" "C15"
-			(at 91.694 91.948 90)
+			(at 90.932 91.948 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "100nF"
-			(at 92.456 93.98 90)
+		(property "Value" "100n/16V"
+			(at 90.678 93.98 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2623,7 +3109,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.mouser.fr/ProductDetail/TAIYO-YUDEN/EMK063BJ104KP-F?qs=sGAEpiMZZMuMW9TJLBQkXvVPYRc%2FyP08RnX4nNCZT4A%3D"
+		(property "Datasheet" "https://www.yuden.co.jp/productdata/catalog/mlcc02_e.pdf"
 			(at 93.98 97.79 0)
 			(effects
 				(font
@@ -2634,6 +3120,87 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 93.98 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Arrow Part Number" ""
+			(at 93.98 97.79 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Arrow Price/Stock" ""
+			(at 93.98 97.79 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.fr/ProductDetail/TAIYO-YUDEN/EMK063BJ104KP-F?qs=sGAEpiMZZMuMW9TJLBQkXvVPYRc%2FyP08RnX4nNCZT4A%3D"
+			(at 93.98 97.79 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pricep1" "0,086"
+			(at 93.98 97.79 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pricep10" "0,042"
+			(at 93.98 97.79 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pricep100" "0,03"
+			(at 93.98 97.79 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Explanation" ""
+			(at 93.98 97.79 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 93.98 97.79 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 93.98 97.79 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2725,7 +3292,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 218.44 92.71 0)
+		(at 229.87 95.25 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2734,7 +3301,7 @@
 		(fields_autoplaced yes)
 		(uuid "cf23ff2d-2f3e-4f65-a9ce-022ce1c4e07c")
 		(property "Reference" "#PWR0133"
-			(at 218.44 99.06 0)
+			(at 229.87 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2743,7 +3310,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 218.44 97.79 0)
+			(at 229.87 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2751,7 +3318,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 218.44 92.71 0)
+			(at 229.87 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2760,7 +3327,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 218.44 92.71 0)
+			(at 229.87 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2769,7 +3336,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 218.44 92.71 0)
+			(at 229.87 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)

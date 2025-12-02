@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP D15S13A4PA00LF
+D 15 Position D-Sub Receptacle, Female Sockets Connector 2 (DA, A) 300V -55C ~ 125C
+K
+F https://cdn.amphenol-cs.com/media/wysiwyg/files/drawing/c01-8646-0304.pdf
+$ENDCMP
+#
+#End Doc Library

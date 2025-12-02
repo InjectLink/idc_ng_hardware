@@ -1,0 +1,16 @@
+.AQ3130-01ETG :1 ;ESD Suppressors / TVS Diodes 0.3pF 10KV AEC-Q101
+AQ313001ETG
+*STM D
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN AQ3130-01ETG
+~!Mouser Part Number (576-AQ3130-01ETG)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Littelfuse/AQ3130-01ETG?qs=AQlKX63v8RuGigjCJJkgEA%3D%3D)
+~!Manufacturer_Name (LITTELFUSE)
+~!Manufacturer_Part_Number (AQ3130-01ETG)
+~!Link Datasheet (https://www.arrow.com/en/products/aq3130-01etg/littelfuse)
+~!Height (0.6mm)
+~!3D_Model (AQ3130-01ETG)
+AQ3130-01ETG
+1.1!U 2.1!U 

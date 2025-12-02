@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "ARJM11D7-114-AB-EW2"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2020-02-01-15:57:46)
+    (mountForm default
+        (footprintRef "ARJM11D7114ABEW2")
+        (spec "System")
+    )
+)
