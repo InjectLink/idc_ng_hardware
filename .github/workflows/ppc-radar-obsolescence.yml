@@ -1,0 +1,54 @@
+name: Radar d'obsolescence PPC
+
+on:
+  workflow_dispatch:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  radar:
+    name: Analyser la nomenclature
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Récupérer le dépôt
+        uses: actions/checkout@v7
+
+      # Une copie locale permet d'ajuster le cache setup-python avant exécution.
+      - name: Récupérer l'action PPC
+        uses: actions/checkout@v7
+        with:
+          repository: InjectLink/ppc-github-action
+          ref: b9eb19dfe928fbe4f1c862ed6f91d1bc13d2c491 # v1.0.0
+          path: .ppc-github-action
+
+      # setup-python refuse les chemins de cache d'une action externe (_actions)
+      # ainsi que le segment /./ d'une action locale. Seul le cache est retiré.
+      - name: Désactiver le cache pip incompatible
+        shell: bash
+        run: |
+          sed -i '/^[[:space:]]*cache: "pip"$/d' .ppc-github-action/action.yml
+          sed -i '/^[[:space:]]*cache-dependency-path:/d' .ppc-github-action/action.yml
+
+      - name: Exécuter le radar d'obsolescence
+        id: radar
+        uses: ./.ppc-github-action
+        with:
+          nomenclature: doc/PPC_Radar-obsolescence_idcng.xlsx
+          sortie: resultats-radar
+          mouser-api-key: ${{ secrets.MOUSER_API_KEY }}
+          digikey-client-id: ${{ secrets.DIGIKEY_CLIENT_ID }}
+          digikey-client-secret: ${{ secrets.DIGIKEY_CLIENT_SECRET }}
+          digikey-account-id: ${{ secrets.DIGIKEY_ACCOUNT_ID }}
+          nexar-token: ${{ secrets.NEXAR_TOKEN }}
+          nexar-client-id: ${{ secrets.NEXAR_CLIENT_ID }}
+          nexar-client-secret: ${{ secrets.NEXAR_CLIENT_SECRET }}
+
+      - name: Publier les résultats
+        uses: actions/upload-artifact@v7
+        with:
+          name: radar-obsolescence
+          path: ${{ steps.radar.outputs.result-directory }}
+          if-no-files-found: error
